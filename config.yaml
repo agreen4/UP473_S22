@@ -4,7 +4,7 @@ theme: hugo-graphite
 googleAnalytics: ''
 relativeurls: no
 languageCode: en-us
-description: An opinionated collection of R packages designed for data science.
+description: Course website for Housing and Urban Policy at University of Illinois at Urbana Champaign.
 disqusShortname: ''
 ignoreFiles:
   - \.Rmd$

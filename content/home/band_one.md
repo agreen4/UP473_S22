@@ -10,7 +10,7 @@ col2:
   row2: tibble
   row3: tidyr
   row4: purrr
-title: Education @ RStudio
+title: Housing and Urban Policy
 ---
 
-Our mission is to equip everyone, regardless of means, to participate in a global economy that rewards data literacy.
+Welcome to the UP 473: Housing and Urban Policy course website for the spring 2022 semester.

@@ -2,23 +2,23 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-    name = "Packages"
-    url = "/packages/"
+    name = "Syllabus"
+    url = "/syllabus/"
     weight = 1
 [[main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Schedule"
+    url = "/schedule/"
     weight = 2
 [[main]]
-    name = "Tutorials"
-    url = "/start/"
+    name = "Assignments"
+    url = "/assignments/"
     weight = 3
 [[main]]
-    name = "Learn"
-    url = "/learn/"
+    name = "Resources"
+    url = "/resources/"
     weight = 4
 [[main]]
-    name = "Help"
-    url = "/help/"
+    name = "<i class='fab fa-slack'></i>"
+    url = "https://neighborhooda-6eu6526.slack.com"
     weight = 5
 
