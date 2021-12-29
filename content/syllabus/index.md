@@ -90,4 +90,10 @@ Students who fail to abide by these rules will first be asked to comply; if they
 
   Students are required to show only the Building Access Screen, which shows compliance without specifying whether it was through COVID-19 vaccination or regular on-campus testing. To protect personal health information, this screen does not say if a person is vaccinated or not. Students are not required to show anyone the screen that displays their vaccination status. No university official, including faculty members, may ask students why they are not vaccinated or any other questions seeking personal health information.
 
+## Let's Be In Touch!
+
+We've been living in particularly abnormal times for the last year and a half - while for many, things are improving, it would be irresponsible to expect that teaching and learning would occur "normally" right now. We continue to teach and learn under emergency circumstances amidst an continually evolving global pandemic.
+
+As you face challenges this semester (and beyond) I need you to *communicate with me*, either during our course sessions or individually. You can schedule an appointment with me at your convenience via my [Calendly page](https://calendly.com/agreen4/30min). I promise to listen, to be a resource, and to help in any way that I can - if I can't help you, I will find someone who can.
+
 {{< packages-hex >}}
