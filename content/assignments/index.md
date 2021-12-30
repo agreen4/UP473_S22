@@ -1,18 +1,19 @@
 ---
 title: Assignments
 ---
+## Overview
 
 | Component                             | Undergraduate | Master's   | Doctoral   | Due Date |
 |---------------------------------------|---------------|------------|------------|----------|
-| National Housing Market Analysis Memo | 10 Percent    | 10 Percent |            | February 11 |
-| Local Housing Market Analysis Memo    | 10 Percent    | 10 Percent |            |March 11|
-| Housing Needs Analysis Memo           | 10 Percent    | 10 Percent |            |April 8 |
-| Housing Policy Analysis Memo          | 30 Percent    |            |            | May 6 |
-| Housing Policy Platform               |               | 40 Percent |            | May 6 |
-| Term Paper                            |               |            | 75 Percent | May 11 |
-| Op Ed                                 |               |            | 15 Percent | May 11 |
-| Discussion Facilitation               | 10 Percent    | 10 Percent | 10 Percent | Varies |
-| Midterm and Final Exams               | 30 Percent    | 20 Percent |            | March 21 <br> May 11 |
+| [National Housing Market Analysis Memo](#national-housing-market-analysis-memo) | 10%    | 10% |            | February 11 |
+| [Local Housing Market Analysis Memo](#local-housing-market-analysis-memo)    | 10%    | 10% |            | March 11|
+| [Housing Needs Analysis Memo](#housing-needs-analysis-memo)           | 10% | 10% |            | April 8 |
+| [Housing Policy Analysis Memo](#housing-policy-analysis-memo)          | 30% |            |            | May 6 |
+| [Housing Policy Platform](#housing-policy-platform)               |               | 40% |            | May 6 |
+| [Term Paper](#term-paper)                            |               |            | 75% | May 11 |
+| [Op Ed](#op-ed)                                 |               |            | 15% | May 11 |
+| [Discussion Facilitation](#discussion-facilitation)               | 10% | 10% | 10% | Varies |
+| [Midterm and Final Exams](#midterm-and-final-exams)               | 30% | 20% |            | March 21 and May 11 |
 
 ## National Housing Market Analysis Memo
 
@@ -112,9 +113,9 @@ Your housing market analysis should describe the following:
 
 * **Trends by Tenure:**	How do changes in the housing market differ for renters and owners? 
 
-* **Future Influences**	Based upon the recent past, what are likely future influences within the local housing market?
+* **Future Influences:**	Based upon the recent past, what are likely future influences within the local housing market?
 
-* **Specialized Populations**	Based upon your analysis of demographic conditions, economic conditions, and housing market trends, what specialized populations emerge who are particularly likely to face housing vulnerability in the future or who will be disparately impacted by the future influences you identify? 
+* **Specialized Populations:**	Based upon your analysis of demographic conditions, economic conditions, and housing market trends, what specialized populations emerge who are particularly likely to face housing vulnerability in the future or who will be disparately impacted by the future influences you identify? 
 
 ### The Deliverable
 
