@@ -3,6 +3,19 @@ title: Schedule
 ---
 
 ## Week 1: Course Introduction
+### Description
+### Facilitators
+### Readings
+
+[Course Syllabus](/syllabus)
+
+[Introductory Survey](https://forms.illinois.edu/sec/1725614233)
+
+Schwartz, Alex, [Housing Policy in the United States (4th edition)](https://www.routledge.com/Housing-Policy-in-the-United-States/Schwartz/p/book/9780367563912) [Chapter 1 <i class="fas fa-cloud-download-alt"></i>]()
+
+### Slides
+### Other Resources
+
 ## Week 2: How Well Are We Housed?
 ## Week 3: Government Intervention in Housing
 ## Week 4: Homeownership

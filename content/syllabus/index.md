@@ -3,10 +3,10 @@ title: Syllabus
 ---
 
 ## Course Information
-
-Mondays and Wednesdays <br>
-1:00 pm - 2:00 pm <br>
-219 David Kinley Hall <br>
+[CRN 58870](https://courses.illinois.edu/schedule/2022/spring/UP/473)
+Mondays and Wednesdays<br>
+1:00 pm - 2:20 pm <br>
+219 [David Kinley Hall](http://ada.fs.illinois.edu/0054.html) <br>
 
 Professor Andrew J. Greenlee &nbsp;
 [<i class="fas fa-globe"></i>](https://urban.illinois.edu/people/profiles/andrew-greenlee/) &nbsp;[<i class="far fa-envelope"></i>](mailto:agreen4@illinois.edu) &nbsp;[<i class="fab fa-twitter"></i>](https://twitter.com/urbprof) &nbsp;[<i class="fab fa-github"></i>](https://www.github.com/agreen4)
