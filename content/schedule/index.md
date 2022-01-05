@@ -13,7 +13,7 @@ title: Schedule
 
 * Schwartz, Alex, [Housing Policy in the United States (4th edition)](https://www.routledge.com/Housing-Policy-in-the-United-States/Schwartz/p/book/9780367563912) 
 
-  - [Chapter 1 <i class="fas fa-cloud-download-alt"></i>]()
+  - [Chapter 1 &nbsp;<i class="fas fa-cloud-download-alt"></i>]()
 
 ### Slides
 ### Other Resources
@@ -25,13 +25,13 @@ title: Schedule
 
 * Schwartz
 
-  - Chapter 2 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 2 &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Tilly, Chris, The Economic Environment of Housing: Income Inequality and Insecurity <i class="fas fa-cloud-download-alt"></i>
+* Tilly, Chris, The Economic Environment of Housing: Income Inequality and Insecurity &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Stone, Michael, Housing Affordability: One-Third of a Nation Shelter-Poor <i class="fas fa-cloud-download-alt"></i>
+* Stone, Michael, Housing Affordability: One-Third of a Nation Shelter-Poor &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Denton, Nancy, Segregation and Discrimination in Housing <i class="fas fa-cloud-download-alt"></i>
+* Denton, Nancy, Segregation and Discrimination in Housing &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 * [Harvard Joint Center for Housing Studies, State of the Nation’s Housing 2021 (Skim)](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2021.pdf)
 
@@ -55,7 +55,7 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Bauer, Catherine, Social Questions in Housing and Community Planning <i class="fas fa-cloud-download-alt"></i>
+* Bauer, Catherine, Social Questions in Housing and Community Planning &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 * [Coates, Ta-Nehisi, The Ghetto is Public Policy](https://www.theatlantic.com/national/archive/2013/03/the-ghetto-is-public-policy/274147/)
 
@@ -85,15 +85,15 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Reid, Carolina, Homeownership and the Racial and Ethnic Wealth Gap in the United States <i class="fas fa-cloud-download-alt"></i>
+* Reid, Carolina, Homeownership and the Racial and Ethnic Wealth Gap in the United States &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Keeanga-Yamahtta Taylor, How Real Estate Segregated America <i class="fas fa-cloud-download-alt"></i>
+* Keeanga-Yamahtta Taylor, How Real Estate Segregated America &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 * [Lutton, Linda, Andrew Fan, and Alden Loury, Where Banks Don’t Lend](https://interactive.wbez.org/2020/banking/disparity/)
 
-* Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process <i class="fas fa-cloud-download-alt"></i>
+* Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Lerner, Michele, 10 Years Later: How the Housing Market Has Changed Since the Crash <i class="fas fa-cloud-download-alt"></i>
+* Lerner, Michele, 10 Years Later: How the Housing Market Has Changed Since the Crash &nbsp;<i class="fas fa-cloud-download-alt"></i>
 	
 ### Slides
 ### Other Resources
@@ -120,11 +120,11 @@ title: Schedule
   
   - Chapter 7
 
-* Smith, Janet, Public Housing Transformation: Evolving National Policy <i class="fas fa-cloud-download-alt"></i>
+* Smith, Janet, Public Housing Transformation: Evolving National Policy &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Wright, Patricia, Community Resistance to CHA Transformation <i class="fas fa-cloud-download-alt"></i>
+* Wright, Patricia, Community Resistance to CHA Transformation &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Smith, Janet, Mixed-Income Communities: Designing Out Poverty or Pushing Out the Poor? <i class="fas fa-cloud-download-alt"></i>
+* Smith, Janet, Mixed-Income Communities: Designing Out Poverty or Pushing Out the Poor? &nbsp;<i class="fas fa-cloud-download-alt"></i>
     
 ### Slides
 ### Other Resources
@@ -138,9 +138,9 @@ title: Schedule
 
 * Rosen, Eva, The Voucher Promise: “Section 8” and the Fate of an American Neighborhood
 
-  - Chapter 3 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 3 &nbsp;<i class="fas fa-cloud-download-alt"></i>
   
-  - Chapter 7 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 7 &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 * [Fischer, Will, Vouchers Can Help Families Afford Homes, With Little Impact on Market Rents](https://www.cbpp.org/research/housing/vouchers-can-help-families-afford-homes-with-little-impact-on-market-rents?utm_source=Housing+Policy+News&utm_campaign=e5f4749826-EMAIL_CAMPAIGN_2019_09_20_06_59_COPY_01&utm_medium=email&utm_term=0_8fdffd50b8-e5f4749826-110885553)
 
@@ -160,7 +160,7 @@ title: Schedule
   - Chapter 7
   - Chapter 8
 
-* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 19) <i class="fas fa-cloud-download-alt"></i>
+* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 19) &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 ### Slides
 ### Other Resources
@@ -170,15 +170,15 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Vale, Lawrence, Urban Renewal and the Rise of Cabrini-Green <i class="fas fa-cloud-download-alt"></i>
+* Vale, Lawrence, Urban Renewal and the Rise of Cabrini-Green &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Prochaska, Natalie, “Old” Urban Renewal in Champaign-Urbana, 1960-1969 <i class="fas fa-cloud-download-alt"></i>
+* Prochaska, Natalie, “Old” Urban Renewal in Champaign-Urbana, 1960-1969 &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Hyra, Derek, Conceptualizing the New Urban Renewal: Comparing Past to the Present <i class="fas fa-cloud-download-alt"></i>
+* Hyra, Derek, Conceptualizing the New Urban Renewal: Comparing Past to the Present &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Rotella, Carlo, The Unexpected Power of Your Old Neighborhood <i class="fas fa-cloud-download-alt"></i>
+* Rotella, Carlo, The Unexpected Power of Your Old Neighborhood &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Galster, George, and Patrick Sharkey, Spatial Foundations of Inequality: A Conceptual Framework <i class="fas fa-cloud-download-alt"></i>
+* Galster, George, and Patrick Sharkey, Spatial Foundations of Inequality: A Conceptual Framework &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 ### Slides
 ### Other Resources
@@ -194,17 +194,17 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Smith, Neil, Gentrification and the Rent Gap <i class="fas fa-cloud-download-alt"></i>
+* Smith, Neil, Gentrification and the Rent Gap &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 24) <i class="fas fa-cloud-download-alt"></i>
+* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 24) &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Voorhees Center, The Socioeconomic Change of Chicago’s Community Areas (1970-2010) <i class="fas fa-cloud-download-alt"></i>
+* Voorhees Center, The Socioeconomic Change of Chicago’s Community Areas (1970-2010) &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Sims, J. Revel, and Carolina Sarmiento, The Affordable Housing Complex: Direct and Exclusionary Displacement in the Lacy and Logan Neighborhoods in Santa Ana, California <i class="fas fa-cloud-download-alt"></i>
+* Sims, J. Revel, and Carolina Sarmiento, The Affordable Housing Complex: Direct and Exclusionary Displacement in the Lacy and Logan Neighborhoods in Santa Ana, California &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Beck, Brenden, The Role of Police in Gentrification <i class="fas fa-cloud-download-alt"></i>
+* Beck, Brenden, The Role of Police in Gentrification &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
-* Voorhees Center, Gentrification & Neighborhood Change: Helpful Tools for Communities <i class="fas fa-cloud-download-alt"></i>
+* Voorhees Center, Gentrification & Neighborhood Change: Helpful Tools for Communities &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 ### Slides
 ### Other Resources
@@ -277,9 +277,9 @@ title: Schedule
 
 * Rothstein, Richard, *The Color of Law*
 
-  - Chapter 3 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 3 &nbsp;<i class="fas fa-cloud-download-alt"></i>
   
-  - Chapter 12 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 12 &nbsp;<i class="fas fa-cloud-download-alt"></i>
   
 * Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - [*Long Island Divided* &nbsp;<i class="far fa-newspaper"></i>](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
 
@@ -320,13 +320,13 @@ title: Schedule
 
 * Turner, Margery Austin, et al., Discrimination Against Persons with Disabilities: Barriers at Every Step
 
-  - Chapter 1 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 1 &nbsp;<i class="fas fa-cloud-download-alt"></i>
   
-  - Chapter 4 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 4 &nbsp;<i class="fas fa-cloud-download-alt"></i>
   
-  - Chapter 5 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 5 &nbsp;<i class="fas fa-cloud-download-alt"></i>
   
-  - Chapter 6 <i class="fas fa-cloud-download-alt"></i>
+  - Chapter 6 &nbsp;<i class="fas fa-cloud-download-alt"></i>
 
 * PBS News Hour - How More Americans are "Aging in Place"
 
