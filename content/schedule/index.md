@@ -12,6 +12,7 @@ title: Schedule
 * [Introductory Survey](https://forms.illinois.edu/sec/1725614233)
 
 * Schwartz, Alex, [Housing Policy in the United States (4th edition)](https://www.routledge.com/Housing-Policy-in-the-United-States/Schwartz/p/book/9780367563912) 
+
   - [Chapter 1 <i class="fas fa-cloud-download-alt"></i>]()
 
 ### Slides
@@ -23,6 +24,7 @@ title: Schedule
 ### Readings
 
 * Schwartz
+
   - Chapter 2 <i class="fas fa-cloud-download-alt"></i>
 
 * Tilly, Chris, The Economic Environment of Housing: Income Inequality and Insecurity <i class="fas fa-cloud-download-alt"></i>
@@ -113,7 +115,9 @@ title: Schedule
 ### Readings
 
 * Schwartz
+
   - Chapter 6
+  
   - Chapter 7
 
 * Smith, Janet, Public Housing Transformation: Evolving National Policy <i class="fas fa-cloud-download-alt">
@@ -133,7 +137,9 @@ title: Schedule
 * Schwartz (Chapter 8)
 
 * Rosen, Eva, The Voucher Promise: “Section 8” and the Fate of an American Neighborhood
+
   - Chapter 3 <i class="fas fa-cloud-download-alt">
+  
   - Chapter 7 <i class="fas fa-cloud-download-alt">
 
 * [Fischer, Will, Vouchers Can Help Families Afford Homes, With Little Impact on Market Rents](https://www.cbpp.org/research/housing/vouchers-can-help-families-afford-homes-with-little-impact-on-market-rents?utm_source=Housing+Policy+News&utm_campaign=e5f4749826-EMAIL_CAMPAIGN_2019_09_20_06_59_COPY_01&utm_medium=email&utm_term=0_8fdffd50b8-e5f4749826-110885553)
@@ -204,6 +210,7 @@ title: Schedule
 ### Other Resources
 
 * There Goes the Neighborhood
+
   - [Miami, Part 1](https://www.wnycstudios.org/podcasts/the-stakes/episodes/the-stakes-there-goes-neighborhood-miami-1)
   
   <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/the-stakes/#file=/audio/json/970126/&share=1"></iframe>
@@ -250,8 +257,11 @@ title: Schedule
 * [The Scarlet E: Unmasking America's Eviction Crisis](https://www.wnycstudios.org/podcasts/otm/scarlet-e-unmasking-americas-eviction-crisis)
 
 <iframe frameborder="0" src="https://www.wnyc.org/widgets/ondemand_player/otm/#file=/audio/json/940992/&amp;share=1" width="100%" height="54"></iframe>
+
 <iframe frameborder="0" src="https://www.wnyc.org/widgets/ondemand_player/otm/#file=/audio/json/943211/&amp;share=1" width="100%" height="54"></iframe>
+
 <iframe frameborder="0" src="https://www.wnyc.org/widgets/ondemand_player/otm/#file=/audio/json/944683/&amp;share=1" width="100%" height="54"></iframe>
+
 <iframe frameborder="0" src="https://www.wnyc.org/widgets/ondemand_player/otm/#file=/audio/json/945073/&amp;share=1" width="100%" height="54"></iframe>
 
 ## Week 12: Housing Market Discrimination and Fair Housing
@@ -266,7 +276,9 @@ title: Schedule
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_-0J49_9lwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Rothstein, Richard, *The Color of Law*
+
   - Chapter 3 <i class="fas fa-cloud-download-alt">
+  
   - Chapter 12 <i class="fas fa-cloud-download-alt">
   
 * Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - [*Long Island Divided* &nbsp;<i class="far fa-newspaper"></i>](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
@@ -307,9 +319,13 @@ title: Schedule
 *[Deutsch, James, ‘Alexander the Grate’ on Homelessness Amid the Pandemic](https://folklife.si.edu/magazine/crisis-alexander-the-grate-homelessness-amid-the-pandemic)
 
 * Turner, Margery Austin, et al., Discrimination Against Persons with Disabilities: Barriers at Every Step
+
   - Chapter 1 <i class="fas fa-cloud-download-alt">
+  
   - Chapter 4 <i class="fas fa-cloud-download-alt">
+  
   - Chapter 5 <i class="fas fa-cloud-download-alt">
+  
   - Chapter 6 <i class="fas fa-cloud-download-alt">
 
 * PBS News Hour - How More Americans are "Aging in Place"
