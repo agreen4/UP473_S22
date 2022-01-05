@@ -23,13 +23,13 @@ title: Schedule
 ### Readings
 
 * Schwartz
-  - Chapter 2
+  - Chapter 2 <i class="fas fa-cloud-download-alt"></i>
 
-* Tilly, Chris, The Economic Environment of Housing: Income Inequality and Insecurity
+* Tilly, Chris, The Economic Environment of Housing: Income Inequality and Insecurity <i class="fas fa-cloud-download-alt"></i>
 
-* Stone, Michael, Housing Affordability: One-Third of a Nation Shelter-Poor
+* Stone, Michael, Housing Affordability: One-Third of a Nation Shelter-Poor <i class="fas fa-cloud-download-alt"></i>
 
-* Denton, Nancy, Segregation and Discrimination in Housing
+* Denton, Nancy, Segregation and Discrimination in Housing <i class="fas fa-cloud-download-alt"></i>
 
 * [Harvard Joint Center for Housing Studies, State of the Nation’s Housing 2021 (Skim)](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2021.pdf)
 
@@ -53,7 +53,7 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Bauer, Catherine, Social Questions in Housing and Community Planning
+* Bauer, Catherine, Social Questions in Housing and Community Planning <i class="fas fa-cloud-download-alt"></i>
 
 * [Coates, Ta-Nehisi, The Ghetto is Public Policy](https://www.theatlantic.com/national/archive/2013/03/the-ghetto-is-public-policy/274147/)
 
@@ -83,15 +83,15 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Reid, Carolina, Homeownership and the Racial and Ethnic Wealth Gap in the United States
+* Reid, Carolina, Homeownership and the Racial and Ethnic Wealth Gap in the United States <i class="fas fa-cloud-download-alt"></i>
 
-* Keeanga-Yamahtta Taylor, How Real Estate Segregated America
+* Keeanga-Yamahtta Taylor, How Real Estate Segregated America <i class="fas fa-cloud-download-alt"></i>
 
-* Lutton, Linda, Andrew Fan, and Alden Loury, Where Banks Don’t Lend (link)
+* [Lutton, Linda, Andrew Fan, and Alden Loury, Where Banks Don’t Lend](https://interactive.wbez.org/2020/banking/disparity/)
 
-* Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process
+* Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process <i class="fas fa-cloud-download-alt">
 
-* Lerner, Michele, 10 Years Later: How the Housing Market Has Changed Since the Crash
+* Lerner, Michele, 10 Years Later: How the Housing Market Has Changed Since the Crash <i class="fas fa-cloud-download-alt">
 	
 ### Slides
 ### Other Resources
@@ -116,11 +116,11 @@ title: Schedule
   - Chapter 6
   - Chapter 7
 
-* Smith, Janet, Public Housing Transformation: Evolving National Policy
+* Smith, Janet, Public Housing Transformation: Evolving National Policy <i class="fas fa-cloud-download-alt">
 
-* Wright, Patricia, Community Resistance to CHA Transformation
+* Wright, Patricia, Community Resistance to CHA Transformation <i class="fas fa-cloud-download-alt">
 
-* Smith, Janet, Mixed-Income Communities: Designing Out Poverty or Pushing Out the Poor?
+* Smith, Janet, Mixed-Income Communities: Designing Out Poverty or Pushing Out the Poor? <i class="fas fa-cloud-download-alt">
     
 ### Slides
 ### Other Resources
@@ -133,8 +133,8 @@ title: Schedule
 * Schwartz (Chapter 8)
 
 * Rosen, Eva, The Voucher Promise: “Section 8” and the Fate of an American Neighborhood
-  - Chapter 3
-  - Chapter 7
+  - Chapter 3 <i class="fas fa-cloud-download-alt">
+  - Chapter 7 <i class="fas fa-cloud-download-alt">
 
 * [Fischer, Will, Vouchers Can Help Families Afford Homes, With Little Impact on Market Rents](https://www.cbpp.org/research/housing/vouchers-can-help-families-afford-homes-with-little-impact-on-market-rents?utm_source=Housing+Policy+News&utm_campaign=e5f4749826-EMAIL_CAMPAIGN_2019_09_20_06_59_COPY_01&utm_medium=email&utm_term=0_8fdffd50b8-e5f4749826-110885553)
 
@@ -154,7 +154,7 @@ title: Schedule
   - Chapter 7
   - Chapter 8
 
-* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 19)
+* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 19) <i class="fas fa-cloud-download-alt">
 
 ### Slides
 ### Other Resources
@@ -164,22 +164,22 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Vale, Lawrence, Urban Renewal and the Rise of Cabrini-Green
+* Vale, Lawrence, Urban Renewal and the Rise of Cabrini-Green <i class="fas fa-cloud-download-alt">
 
-* Prochaska, Natalie, “Old” Urban Renewal in Champaign-Urbana, 1960-1969
+* Prochaska, Natalie, “Old” Urban Renewal in Champaign-Urbana, 1960-1969 <i class="fas fa-cloud-download-alt">
 
-* Hyra, Derek, Conceptualizing the New Urban Renewal: Comparing Past to the Present
+* Hyra, Derek, Conceptualizing the New Urban Renewal: Comparing Past to the Present <i class="fas fa-cloud-download-alt">
 
-* Rotella, Carlo, The Unexpected Power of Your Old Neighborhood
+* Rotella, Carlo, The Unexpected Power of Your Old Neighborhood <i class="fas fa-cloud-download-alt">
 
-* Galster, George, and Patrick Sharkey, Spatial Foundations of Inequality: A Conceptual Framework
-
-* Sutton, Stacey, Urban Revitalization in the United States: Policies and Practices (Sections 2-4)
+* Galster, George, and Patrick Sharkey, Spatial Foundations of Inequality: A Conceptual Framework <i class="fas fa-cloud-download-alt">
 
 ### Slides
 ### Other Resources
 
 *[Black Activity Spaces in Shaker Heights &nbsp;<i class="fas fa-user-graduate"></i>](https://www.tandfonline.com/doi/full/10.1080/26884674.2021.1972774)
+
+* Sutton, Stacey, Urban Revitalization in the United States: Policies and Practices (Sections 2-4)
 
 ## Week 9: Spring Break
 
@@ -188,20 +188,21 @@ title: Schedule
 ### Facilitators
 ### Readings
 
-* Smith, Neil, Gentrification and the Rent Gap
+* Smith, Neil, Gentrification and the Rent Gap <i class="fas fa-cloud-download-alt">
 
-* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 24)
+* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 24) <i class="fas fa-cloud-download-alt">
 
-* Voorhees Center, The Socioeconomic Change of Chicago’s Community Areas (1970-2010)
+* Voorhees Center, The Socioeconomic Change of Chicago’s Community Areas (1970-2010) <i class="fas fa-cloud-download-alt">
 
-* Sims, J. Revel, and Carolina Sarmiento, The Affordable Housing Complex: Direct and Exclusionary Displacement in the Lacy and Logan Neighborhoods in Santa Ana, California
+* Sims, J. Revel, and Carolina Sarmiento, The Affordable Housing Complex: Direct and Exclusionary Displacement in the Lacy and Logan Neighborhoods in Santa Ana, California <i class="fas fa-cloud-download-alt">
 
-* Beck, Brenden, The Role of Police in Gentrification
+* Beck, Brenden, The Role of Police in Gentrification <i class="fas fa-cloud-download-alt">
 
-* Voorhees Center, Gentrification & Neighborhood Change: Helpful Tools for Communities
+* Voorhees Center, Gentrification & Neighborhood Change: Helpful Tools for Communities <i class="fas fa-cloud-download-alt">
 
 ### Slides
 ### Other Resources
+
 * There Goes the Neighborhood
   - [Miami, Part 1](https://www.wnycstudios.org/podcasts/the-stakes/episodes/the-stakes-there-goes-neighborhood-miami-1)
   
@@ -260,11 +261,14 @@ title: Schedule
 
 * Schwartz 11
 
-* [Last Week Tonight: Housing Discrimination
+* Last Week Tonight: Housing Discrimination
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_-0J49_9lwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Rothstein, Richard, The Color of Law - Chapter 3, Chapter 12
+* Rothstein, Richard, *The Color of Law*
+  - Chapter 3 <i class="fas fa-cloud-download-alt">
+  - Chapter 12 <i class="fas fa-cloud-download-alt">
+  
 * Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - [*Long Island Divided* &nbsp;<i class="far fa-newspaper"></i>](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
 
 ### Slides
@@ -277,8 +281,6 @@ title: Schedule
 <iframe src="https://www.npr.org/player/embed/601131468/601396049" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5FBJyqfoLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 * Satter, Beryl, *Family Properties*
 
@@ -304,9 +306,14 @@ title: Schedule
 
 *[Deutsch, James, ‘Alexander the Grate’ on Homelessness Amid the Pandemic](https://folklife.si.edu/magazine/crisis-alexander-the-grate-homelessness-amid-the-pandemic)
 
-* Turner, Margery Austin, et al., Discrimination Against Persons with Disabilities: Barriers at Every Step (Chapters 1 and 4-6)
+* Turner, Margery Austin, et al., Discrimination Against Persons with Disabilities: Barriers at Every Step
+  - Chapter 1 <i class="fas fa-cloud-download-alt">
+  - Chapter 4 <i class="fas fa-cloud-download-alt">
+  - Chapter 5 <i class="fas fa-cloud-download-alt">
+  - Chapter 6 <i class="fas fa-cloud-download-alt">
 
 * PBS News Hour - How More Americans are "Aging in Place"
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5VqgSkN14JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
@@ -324,6 +331,7 @@ title: Schedule
   - [Chapter 5: Housing Finally](https://99percentinvisible.org/episode/according-to-need-chapter-5-housing-finally/)
 
 * [Together as a Family: Multigenerational Living Rises in a Pandemic](https://www.washingtonpost.com/realestate/together-as-a-family-multigenerational-living-rises-in-pandemic/2021/05/12/bd8598f6-a900-11eb-8d25-7b30e74923ea_story.html)
+
 ## Week 15: Class Presentations
 ### Description
 ### Presenters
