@@ -31,7 +31,18 @@ title: Resources
 * [American Housing Survey](https://www.census.gov/programs-surveys/ahs.html)
 * [Brown S4 Longitudinal Tract Database](https://s4.ad.brown.edu/projects/diversity/Researcher/LTBDDload/Default.aspx)
 * [Census Household PULSE Survey: Measuring Household Experiences During the Coronavirus Pandemic](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html)
+* [Eviction Lab](https://evictionlab.org)
 * [Harvard Joint Center for Housing Studies](https://www.jchs.harvard.edu)
 * [HUD-USPS Vacany Data](https://www.huduser.gov/portal/datasets/usps.html)
 * [National Assocation of Realtors](https://www.nar.realtor/research-and-statistics)
 * [Zillow.com](https://www.zillow.com/research/)
+
+## Data Analysis
+
+* Comparing The American Housing Survey and the American Community Survey
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-NfRZwT1SmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Census Bureau Data About Housing Characteristics
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lVVNGwC20zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
