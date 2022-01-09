@@ -8,17 +8,17 @@ weight: 10
 ## Facilitators
 ## Readings
 
-* Smith, Neil, Gentrification and the Rent Gap &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Smith, Neil, Gentrification and the Rent Gap &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/f0tztbp74mstyit95m77kfjbb1ktgenc)
 
-* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 24) &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 24) &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/qwviz3jexqt08247qqw0jg40kswyleyt)
 
-* Voorhees Center, The Socioeconomic Change of Chicago’s Community Areas (1970-2010) &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Voorhees Center, The Socioeconomic Change of Chicago’s Community Areas (1970-2010) &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/vrhndm3hqfu1fxu72f19iy6r09xkk0n6)
 
-* Sims, J. Revel, and Carolina Sarmiento, The Affordable Housing Complex: Direct and Exclusionary Displacement in the Lacy and Logan Neighborhoods in Santa Ana, California &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Sims, J. Revel, and Carolina Sarmiento, The Affordable Housing Complex: Direct and Exclusionary Displacement in the Lacy and Logan Neighborhoods in Santa Ana, California &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/r8298vbirr8eza4ueg1emidow3kcrlqm)
 
-* Beck, Brenden, The Role of Police in Gentrification &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Beck, Brenden, The Role of Police in Gentrification &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/uoi7f89ccudnpgtut9pvx9prq0t8retp)
 
-* Voorhees Center, Gentrification & Neighborhood Change: Helpful Tools for Communities &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Voorhees Center, Gentrification & Neighborhood Change: Helpful Tools for Communities &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/qunriytu50xa42maz04625lu08kxz4zn)
 
 ## Slides
 ## Other Resources

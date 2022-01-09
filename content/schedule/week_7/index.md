@@ -13,7 +13,7 @@ weight: 7
   - Chapter 7
   - Chapter 8
 
-* Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 19) &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 19) &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/jkd0keylc7dh99im5jy0donl12i0zue0)
 
 ## Slides
 ## Other Resources

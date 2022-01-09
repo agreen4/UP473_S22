@@ -7,7 +7,7 @@ weight: 3
 ## Description
 ## Facilitators
 ## Readings
-* Bauer, Catherine, Social Questions in Housing and Community Planning &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Bauer, Catherine, Social Questions in Housing and Community Planning &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/gyzgj83qo4fsyxn7lgs6ztdrvxamw6r4)
 
 * [Coates, Ta-Nehisi, The Ghetto is Public Policy](https://www.theatlantic.com/national/archive/2013/03/the-ghetto-is-public-policy/274147/)
 

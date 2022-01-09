@@ -5,24 +5,26 @@ description: |
 weight: 2
 ---
 ## Description
+
 Housing conditions and measures can help us understand why and how housing matters.
+
 ## Facilitators
 ## Readings
 
 * Schwartz
 
-  - Chapter 2 &nbsp;<i class="fas fa-cloud-download-alt"></i>
+  - [Chapter 2 &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/jlss0xfnnu4gbwb4horrwsfai6x7bz6c)
 
-* Tilly, Chris, The Economic Environment of Housing: Income Inequality and Insecurity &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Tilly, Chris, The Economic Environment of Housing: Income Inequality and Insecurity &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/2twdfaqws80d931ctuum5unpamro85f3)
 
-* Stone, Michael, Housing Affordability: One-Third of a Nation Shelter-Poor &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Stone, Michael, Housing Affordability: One-Third of a Nation Shelter-Poor &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/9864gdco1l0i0ws9elv2ed06dzr92jow)
 
-* Denton, Nancy, Segregation and Discrimination in Housing &nbsp;<i class="fas fa-cloud-download-alt"></i>
+* [Denton, Nancy, Segregation and Discrimination in Housing &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/638dzre8mo5sxwsj9t8jbg9ztpt0v73c)
 
 * [Harvard Joint Center for Housing Studies, State of the Nation’s Housing 2021 (Skim)](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2021.pdf)
 
-* HUD Comprehensive Housing Market Analysis
-	
+* [HUD Comprehensive Housing Market Analysis](https://www.huduser.gov/portal/publications/pdf/ChampaignIL-comp-17.pdf)
+
 ## Slides
 ## Other Resources
 
