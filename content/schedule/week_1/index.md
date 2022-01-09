@@ -21,7 +21,7 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 * Schwartz, Alex, [Housing Policy in the United States (4th edition)](https://www.routledge.com/Housing-Policy-in-the-United-States/Schwartz/p/book/9780367563912) 
 
-  - [Chapter 1 &nbsp;<i class="fas fa-cloud-download-alt"></i>]()
+  - [Chapter 1 &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/4l81c33xl27swhmz5d1ixp78c4pznbz9)
 
 ## Slides
 ## Other Resources
