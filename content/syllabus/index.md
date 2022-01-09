@@ -94,5 +94,3 @@ Students who fail to abide by these rules will first be asked to comply; if they
 We've been living in particularly abnormal times for the last two years - while for many, things are improving, it would be irresponsible to expect that teaching and learning would occur "normally" right now. We continue to teach and learn under emergency circumstances amidst an continually evolving global pandemic.
 
 As you face challenges this semester (and beyond) I need you to *communicate with me*, either during our course sessions or individually. You can schedule an appointment with me at your convenience via my [Calendly page](https://calendly.com/agreen4/30min). I promise to listen, to be a resource, and to help in any way that I can - if I can't help you, I will find someone who can.
-
-{{< packages-hex >}}
