@@ -21,3 +21,5 @@ weight: 5
 
 ## Slides
 ## Other Resources
+
+* [Greenlee, Lee, and McNamara, Performance of Small Public Housing Authorities: Opportunities and Barriers](https://www.jstor.org/stable/26524883?seq=1#metadata_info_tab_contents)

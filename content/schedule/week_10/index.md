@@ -21,9 +21,11 @@ This week, we'll be examining emerging questions related to regulating housing e
 
 * Jones and Grigsby-Toussaint - [Housing Stability and the Residential Context of the COVID-19 Pandemic](https://www.tandfonline.com/doi/full/10.1080/23748834.2020.1785164)
 
-IGPA Policy Brief - [Mitigating Housing Instability During the COVID-19 Pandemic](https://igpa.uillinois.edu/sites/igpa.uillinois.edu/files/reports/PolicySpotlight_HousingInstability.pdf)
+* IGPA Policy Brief - [Mitigating Housing Instability During the COVID-19 Pandemic](https://igpa.uillinois.edu/sites/igpa.uillinois.edu/files/reports/PolicySpotlight_HousingInstability.pdf)
 
 ## Slides
 ## Other Resources
+
+* Sutherland, Christopher, Andrew Greenlee, and Daniel Schneider - [Socioeconomic Drivers of Urban Pest Prevalence](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10096)
 
 * Nande, et al. - [The Effect of Eviction Moratoria on the Transmission of SARS-CoV-2](https://www.nature.com/articles/s41467-021-22521-5)

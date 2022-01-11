@@ -26,6 +26,12 @@ weight: 12
 ## Slides
 ## Other Resources
 
+* Greenlee, Andrew - [Assessing the Intersection of Neighborhood Change and Residential Mobility for the Chicago Metropolitan Area (2006-2015)](https://www.tandfonline.com/doi/full/10.1080/10511482.2018.1476898)
+
+* Greenlee, Andrew and Beverly Wilson - [Where Does Location Choice Drive Residential Mobility? An Analysis of Origin and Destination Communities](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10096)
+
+* Lopez, Esteban, and Andrew Greenlee - [An Ex-Ante Analysis of Housing Location Choices Due to Housing Displacement: The Case of Bristol Place](https://www.sciencedirect.com/science/article/pii/S0143622816303472)
+
 * There Goes the Neighborhood
 
   - [Miami, Part 1](https://www.wnycstudios.org/podcasts/the-stakes/episodes/the-stakes-there-goes-neighborhood-miami-1)

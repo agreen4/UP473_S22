@@ -21,6 +21,16 @@ weight: 8
 ## Slides
 ## Other Resources
 
+* [Baker, Dwayne, Esteban Lopez, and Andrew Greenlee, Transit Development and Housing Displacement: The Case of the Chicago Red Line Extension](https://www.tandfonline.com/doi/full/10.1080/14036096.2017.1284155)
+
 *[Black Activity Spaces in Shaker Heights &nbsp;<i class="fas fa-user-graduate"></i>](https://www.tandfonline.com/doi/full/10.1080/26884674.2021.1972774)
+
+* [Contractor, Annie, and Andrew Greenlee, Up-"Routing" Communities: Subaltern Voices Challenge Sustainable Urban Renewal in Fortaleza, Brazil](https://www.tandfonline.com/doi/full/10.1080/14036096.2017.1284155)
+
+* [Keep, Miriam, Bernadette Montanari, Andrew Greenlee, Contesting "inclusive" development: Reactions to Slum Resettlement as Social Inclusion in Tamesna, Morocco](https://www.sciencedirect.com/science/article/pii/S0264275121002286)
+
+* [Lee, et al., Transcriptomic Analyses of Black Women in Neighborhoods with High Levels of Violence](https://www.sciencedirect.com/science/article/pii/S0306453021000482)
+
+* [Lee, C. Aujean, and Andrew Greenlee, Impacts of Multiscale Racial Concentration on Neighborhood Foreclosure Risk in Immigrant Gateway etropolitan Areas](https://journals.sagepub.com/doi/abs/10.1111/cico.12478)
 
 * [Sutton, Stacey, Urban Revitalization in the United States: Policies and Practices (Sections 2-4)](https://uofi.box.com/s/ea307xgwlws48lu97msi9cqbjo8yfjr9)
