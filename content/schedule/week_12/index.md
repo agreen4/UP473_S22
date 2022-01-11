@@ -1,11 +1,14 @@
 ---
-title: Week 12 - Gentrification and Neighborhood Change
+title: Week 12 - Neighborhood Change and Gentrification
 description: |
   Describe Me Here.
 weight: 12
 ---
 ## Description
 ## Facilitators
+
+* [Dr. Patrice Williams](https://dusp.mit.edu/staff/patrice-c-williams) - Research Scientist, MIT
+
 ## Readings
 
 * [Smith, Neil, Gentrification and the Rent Gap &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/f0tztbp74mstyit95m77kfjbb1ktgenc)

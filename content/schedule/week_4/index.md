@@ -1,11 +1,14 @@
 ---
 title: Week 4 - Homeownership
 description: |
-  How has the drive for homeownership simultaneously created great wealth and calamity for many households?
+  How has the drive for homeownership simultaneously created great wealth and new risks for households?
 weight: 4
 ---
 ## Description
 ## Facilitators
+
+* [Kim Gollings](https://cuhabitat.org/team/chris-linn/) - Community Development Director, [Habitat for Humanity of Champaign County](https://cuhabitat.org)
+
 ## Readings
 
 * [Reid, Carolina, Homeownership and the Racial and Ethnic Wealth Gap in the United States &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/7krnn22nc1l54rzsbjtm85uml4cvqtzs)

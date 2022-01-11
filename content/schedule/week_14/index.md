@@ -6,6 +6,9 @@ weight: 14
 ---
 ## Description
 ## Facilitators
+
+* [Danielle Chynoweth](https://www.toi.org/township/champaign-county-cunningham-township/ctso-staff/) Cunningham Township Supervisor
+
 ## Readings
 
 * [National Alliance to End Homelessness: State of Homelessness 2021 Edition &nbsp;<i class="fas fa-atlas"></i>](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness-2021/)

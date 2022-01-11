@@ -27,7 +27,7 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 * [3 Ways Remote Work Could Remake America](https://www.vox.com/22839563/remote-work-climate-change-house-prices-cities)
 
-* [It's Been a Home for Decades But Only Legal Only a Few Months](https://www.nytimes.com/2021/12/18/business/economy/california-housing.html)
+* [It's Been a Home for Decades But Only Legal a Few Months](https://www.nytimes.com/2021/12/18/business/economy/california-housing.html)
 
 * [Portland Developer's Change of Plan Opens Doors For Women who are Homeless or in Recovery](https://www.pressherald.com/2022/01/10/portland-developer-creates-housing-for-women-who-are-in-recovery-or-homeless/)
 

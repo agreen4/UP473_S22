@@ -1,11 +1,18 @@
 ---
-title: Week 10 - Regulating Housing and Health
+title: Week 10 - Regulating Housing Environments
 description: |
   Healthy housing involves a complex series of negotiations and collaboration.
 weight: 10
 ---
 ## Description
+
+This week, we'll be examining emerging questions related to regulating housing environments. We'll be joined for both of our course sessions by [Dr. Michael Z. Levy](https://www.med.upenn.edu/apps/faculty/index.php/g275/p6363868) who is an epidemiologist and biostatistician at Penn. For this week, we'll work closely with Dr. Levy's students to explore some of the intersections between housing policy and housing environments. Specifically we'll draw upon two case studies - bedbug infestations and COVID-19 infestations to explore the *political ecology* of housing environments.
+
 ## Facilitators
+
+* Dr. Andrew Greenlee
+* Dr. Michael Levy
+
 ## Readings
 
 * Dawn Biehler - [Permeable Homes](https://www.sciencedirect.com/science/article/pii/S0016718509001109)
