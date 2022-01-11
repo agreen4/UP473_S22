@@ -1,7 +1,7 @@
 ---
 title: Week 1 - Course Introduction
 description: |
-  Welcome to class - let's get started!.
+  Welcome to class - let's get started!
 weight: 1
 ---
 
