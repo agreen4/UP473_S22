@@ -16,9 +16,9 @@ weight: 12
 
 * Rothstein, Richard, *The Color of Law*
 
-  - Chapter 3 &nbsp;<i class="fas fa-cloud-download-alt"></i>
+  - [Chapter 3 &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/b0v33tzq5y2qed0dzs6c1etqopxtslbl)
   
-  - Chapter 12 &nbsp;<i class="fas fa-cloud-download-alt"></i>
+  - [Chapter 12 &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/nsmxv02z218dv6xk506l4nqip5tkt8w3)
   
 * Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - [*Long Island Divided* &nbsp;<i class="far fa-newspaper"></i>](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
 
@@ -34,6 +34,7 @@ weight: 12
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5FBJyqfoLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Satter, Beryl, *Family Properties*
+  - [The Noose Around Black Chicago](https://uofi.box.com/s/9y05n6w49m2xlataxt4jsv0pomi45bwt)
 
 * [Redlining Didn't Happen Quite the Way We Thoughts in Did &nbsp;<i class="far fa-newspaper"></i>](https://www.governing.com/context/redlining-didnt-happen-quite-the-way-we-thought-it-did?_amp=true)
 

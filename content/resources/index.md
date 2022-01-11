@@ -15,9 +15,11 @@ title: Resources
 * [NYU Furman Center](https://furmancenter.org)
 * [Kirwan Institute for the Study of Race and Ethnicity](https://kirwaninstitute.osu.edu)
 * [National Coalition for the Homeless](https://nationalhomeless.org)
+*[National Initiative on Mixed-Income Communities](https://case.edu/socialwork/nimc/)
 * [National Low-Income Housing Coalition](https://nlihc.org)
 * [Portland State University Homelessness Research & Action Collaborative](https://www.pdx.edu/homelessness/)
 * [Poverty & Race Research Action Council](https://www.prrac.org)
+* [Shimberg Center for Housing Studies](http://www.shimberg.ufl.edu)
 * [UC Berkeley Terner Center for Housing Innovation](https://ternercenter.berkeley.edu)
 * [University of Florida Shimberg Center for Housing Studies](http://www.shimberg.ufl.edu)
 * [University of Minnesota Center for Urban and Regional Affairs](https://www.cura.umn.edu)
@@ -33,8 +35,9 @@ title: Resources
 * [Census Household PULSE Survey: Measuring Household Experiences During the Coronavirus Pandemic](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html)
 * [Eviction Lab](https://evictionlab.org)
 * [Harvard Joint Center for Housing Studies](https://www.jchs.harvard.edu)
-* [HUD-USPS Vacany Data](https://www.huduser.gov/portal/datasets/usps.html)
+* [HUD-USPS Vacancy Data](https://www.huduser.gov/portal/datasets/usps.html)
 * [National Assocation of Realtors](https://www.nar.realtor/research-and-statistics)
+* [National Housing Preservation Database](https://preservationdatabase.org)
 * [Zillow.com](https://www.zillow.com/research/)
 
 ## Data Analysis
@@ -46,3 +49,11 @@ title: Resources
 * Census Bureau Data About Housing Characteristics
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lVVNGwC20zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Periodic Email Lists
+
+* [HUDUser](https://www.huduser.gov/portal/subscribe/subscribe.html): HUD Office of Policy Development and Research newsletter.
+
+* [National Low-Income Housing Coalition Call on HoUsed: Universal, Stable, Affordable Housing](https://nlihc.org/covid-19-working-groupcalls): Weekly calls, many including members of Congress to discuss issues related to affordable housing and covid housing recovery.
+
+* [Urban Institute Housing Matters](https://www.tfaforms.com/4644066?tfa_1927=HM): Weekly newsletter on national housing policy.

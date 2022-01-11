@@ -16,13 +16,7 @@ weight: 14
 
 * Turner, Margery Austin, et al., Discrimination Against Persons with Disabilities: Barriers at Every Step
 
-  - Chapter 1 &nbsp;<i class="fas fa-cloud-download-alt"></i>
-  
-  - Chapter 4 &nbsp;<i class="fas fa-cloud-download-alt"></i>
-  
-  - Chapter 5 &nbsp;<i class="fas fa-cloud-download-alt"></i>
-  
-  - Chapter 6 &nbsp;<i class="fas fa-cloud-download-alt"></i>
+  - [Sections 1, 4, 5, 6 &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/xql8zvj6kfof3alvnng7dc65r0pg9yzy)
 
 * PBS News Hour - How More Americans are "Aging in Place"
 
