@@ -36,4 +36,6 @@ weight: 14
 
   - [Chapter 5: Housing Finally](https://99percentinvisible.org/episode/according-to-need-chapter-5-housing-finally/)
 
+* Seattle Times - [She Didn't Want to Die Homeless. But in Seattle, There Were Few Places To Turn.](https://www.seattletimes.com/seattle-news/homeless/she-didnt-want-to-die-without-a-home-but-even-with-cancer-she-had-few-options-in-seattle/)
+
 * [Together as a Family: Multigenerational Living Rises in a Pandemic](https://www.washingtonpost.com/realestate/together-as-a-family-multigenerational-living-rises-in-pandemic/2021/05/12/bd8598f6-a900-11eb-8d25-7b30e74923ea_story.html)

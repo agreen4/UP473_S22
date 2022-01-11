@@ -16,6 +16,7 @@ Office Hours: By appointment [via Calendly](https://calendly.com/agreen4/30min)<
 ## Course Overview and Objectives
 
 Housing represents a fundamental human need and a critical element of human settlements. Within the context of urban planning, housing represents one of the ways in which planning intervention has sought to ensure the health and safety of residents, while also bearing influence on the spatial, social, and economic relationships that differentiate housing and other land uses. Within this class, we will explore the policies and practices that constitute housing policy in the United States and abroad, in order to understand where and how planning strategies have been effective (and ineffective) at shaping physical, economic, social, and political dimensions of housing. 
+
 ## Learning Goals
 
 By the end of this course, we will develop:
@@ -28,6 +29,18 @@ By the end of this course, we will develop:
 ## Prerequisites
 
 UP 473 is designed as a seminar which compliments engagement and discussion with independent work. This course has no prerequisites aside from upper-level undergraduate or graduate-level standing. Students will benefit from some prior knowledge of urban planning theories, concepts, and analytical techniques, although these are not a required prerequisite. Please touch base with me if you have any questions regarding whether this course is right for you.
+
+## Course Materials
+
+Most course materials are accessible via our course website. Because this website is publicly accessible, some course materials are restricted access and available by logging in to your [UIUC Box.net](http://uofi.app.box.com) account.
+
+There is one required textbook which we will use of the course of the semester:
+
+![](https://images-na.ssl-images-amazon.com/images/I/51eJLJdf5FL._SX348_BO1,204,203,200_.jpg)
+
+Schwartz, Alex F. *Housing Policy in the United States (3rd Edition)*
+
+Please purchase a copy of this book from your preferred bookseller.
 
 ## Assignments, Grading, and Attendance
 
