@@ -6,6 +6,9 @@ weight: 13
 ---
 ## Description
 ## Facilitators
+
+* [Sharon Legenza](https://housingactionil.org/board-and-staff-bios/sharon-legenza/), Executive Director, [Housing Action Illinois](https://housingactionil.org)
+
 ## Readings
 
 * Schwartz 11
