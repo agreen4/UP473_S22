@@ -32,7 +32,7 @@ UP 473 is designed as a seminar which compliments engagement and discussion with
 
 ## Course Materials
 
-Most course materials are accessible via our course website. Because this website is publicly accessible, some course materials are restricted access and available by logging in to your [UIUC Box.net](http://uofi.app.box.com) account.
+Most course materials are accessible via our course website. Because this website is publicly accessible, some course materials are restricted access and available by logging in to your [UIUC Box.net](http://uofi.app.box.com) account. Some links especially to academic journal articles may also require you to log in [via VPN](https://answers.uillinois.edu/illinois/98773) if you are off campus.
 
 There is one required textbook which we will use of the course of the semester:
 
@@ -40,7 +40,7 @@ There is one required textbook which we will use of the course of the semester:
 
 Schwartz, Alex F. *Housing Policy in the United States (3rd Edition)*
 
-Please purchase a copy of this book from your preferred bookseller.
+Please purchase a copy of this book from your preferred bookseller. While we will focus on chapters in the third edition, you may also purchase the fourth edition if you wish.
 
 ## Assignments, Grading, and Attendance
 

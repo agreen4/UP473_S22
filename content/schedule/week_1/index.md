@@ -25,6 +25,8 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 ## In Class
 
+* [Federal Rental Assistance is Running Out, With Tenants Still in Need](https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html)
+
 * [3 Ways Remote Work Could Remake America](https://www.vox.com/22839563/remote-work-climate-change-house-prices-cities)
 
 * [It's Been a Home for Decades But Only Legal a Few Months](https://www.nytimes.com/2021/12/18/business/economy/california-housing.html)
