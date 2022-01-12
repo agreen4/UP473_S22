@@ -6,6 +6,9 @@ weight: 8
 ---
 ## Description
 ## Facilitators
+
+* [Mike Davis](https://www.cilba.org/about/staff/), Executive Director, [Central Illinois Land Bank Authority](https://www.cilba.org)
+
 ## Readings
 
 * [Vale, Lawrence, Urban Renewal and the Rise of Cabrini-Green &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/ftghca2wayk31m2i781jagoiy9xnreab)
