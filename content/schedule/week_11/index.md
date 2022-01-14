@@ -24,6 +24,8 @@ weight: 11
 ## Slides
 ## Other Resources
 
+* [It Should Take More than 10 Minutes to Evict Someone](https://www.nytimes.com/2022/01/13/opinion/housing-eviction.html)
+
 * [How Small-Scale Landlords Work with Tenants to Avoid Evictions](https://housingmatters.urban.org/research-summary/how-small-scale-landlords-work-tenants-avoid-evictions)
 
 * [IGPA Policy Brief: Mitigating Housing Instability During the COVID-19 Pandemic](https://igpa.uillinois.edu/sites/igpa.uillinois.edu/files/reports/PolicySpotlight_HousingInstability.pdf)

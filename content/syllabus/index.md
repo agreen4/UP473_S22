@@ -48,7 +48,7 @@ This course requires your engagement both within and outside of our seminar sess
 
 | Letter Grade | Point Range    | Description                                              |
 |--------------|----------------|----------------------------------------------------------|
-| A            | > 90 Points    | Outstanding work, ready for publication and disseminaton |
+| A            | > 90 Points    | Outstanding work, ready for publication and dissemination |
 | B            | 80 - 89 Points | Good work, work needs minor revision                     |
 | C            | 70 - 79 Points | Work needs major revision                                |
 | D            | 60 - 69 Points | Work needs significant revision and rethinking           |
@@ -86,24 +86,20 @@ The [Department of Urban and Regional Planning](https://urban.illinois.edu) is c
 
 Following University policy, all students are required to engage in appropriate behavior to protect the health and safety of the community. Students are also required to follow the [campus COVID-19 protocols](https://covid19.illinois.edu/spring-2022-guidelines/).
 
-Students who feel ill must not come to class. In addition, students who test positive for COVID-19 or have had an exposure that requires testing and/or quarantine must not attend class. The University will provide information to the instructor, in a manner that complies with privacy laws, about students in these latter categories. These students are judged to have excused absences for the class period and should contact the instructor via email about making up the work.     
-
-Students who fail to abide by these rules will first be asked to comply; if they refuse, they will be required to leave the classroom immediately. If a student is asked to leave the classroom, the non-compliant student will be judged to have an unexcused absence and reported to the Office for Student Conflict Resolution for disciplinary action. Accumulation of non-compliance complaints against a student may result in dismissal from the University.
+If you feel ill, do not come to class. In addition, if you test positive for COVID-19 or have had an exposure that requires testing and/or quarantine, do not attend class. Please notify me, and at my discretion, you will be given excused absences for these class sessions. We will also develop a plan to discuss how to make up any missed work.     
 
 #### Face Coverings
 
-  All students, faculty, staff, and visitors are required to wear face coverings in classrooms and university spaces. This is in accordance with CDC guidance and University policy and expected in this class.
+In accordance with CDC guidance and university policy, all students, faculty, staff, and visitors are required to wear face coverings in classrooms and university spaces. You are encouraged to wear a N-95 (or comparable) mask in UP 473.
 
-  Please refer to the University of Illinois Urbana-Champaign’s [COVID-19 website](https://covid19.illinois.edu) for further information on face coverings. Thank you for respecting all of our wellbeing so we can learn and interact together productively.
+Please refer to the University of Illinois Urbana-Champaign’s [COVID-19 website](https://covid19.illinois.edu) for further information on face coverings. Thank you for respecting all of our wellbeing so we can learn and interact together productively.
 
 #### Building Access
 
   In order to implement COVID-19-related guidelines and policies affecting university operations, instructional faculty members may ask students in the classroom to show their Building Access Status in the Illinois app or the Boarding Pass. Staff members may ask students in university offices to show their Building Access Status in the Illinois app or the Boarding Pass. If the Building Access Status says “Granted,” that means the individual is compliant with the university’s COVID-19 policies—either with a university-approved COVID-19 vaccine or with the on-campus COVID-19 testing program for unvaccinated students.
 
-  Students are required to show only the Building Access Screen, which shows compliance without specifying whether it was through COVID-19 vaccination or regular on-campus testing. To protect personal health information, this screen does not say if a person is vaccinated or not. Students are not required to show anyone the screen that displays their vaccination status. No university official, including faculty members, may ask students why they are not vaccinated or any other questions seeking personal health information.
-
 ## Let's Be In Touch!
 
-We've been living in particularly abnormal times for the last two years - while for many, things are improving, it would be irresponsible to expect that teaching and learning would occur "normally" right now. We continue to teach and learn under emergency circumstances amidst an continually evolving global pandemic.
+We've been living in particularly abnormal times for the last two years - it would be irresponsible to expect that teaching and learning would occur "normally" right now. We continue to teach and learn under emergency circumstances amidst an continually evolving global pandemic.
 
-As you face challenges this semester (and beyond) I need you to *communicate with me*, either during our course sessions or individually. You can schedule an appointment with me at your convenience via my [Calendly page](https://calendly.com/agreen4/30min). I promise to listen, to be a resource, and to help in any way that I can - if I can't help you, I will find someone who can.
+As you face challenges this semester, I need you to *communicate with me*, either during our course sessions or individually. You can schedule an appointment with me at your convenience via my [Calendly page](https://calendly.com/agreen4/30min). I promise to listen, to be a resource, and to help in any way that I can - if I can't help you, I will find someone who can.
