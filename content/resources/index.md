@@ -1,6 +1,8 @@
 ---
 title: Resources
 ---
+As you identify additional resource, we will add them to this site.
+
 ## Housing Advocacy and Research - Illinois
 
 * [Chicago Rehab Network](https://www.chicagorehab.org)
