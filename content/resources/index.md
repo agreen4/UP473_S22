@@ -3,6 +3,19 @@ title: Resources
 ---
 As you identify additional resource, we will add them to this site.
 
+## Assignment Resources
+
+* [Professional Writing By the Numbers](https://uofi.box.com/s/8sd9ievwu7gumwg5co5eqy9ebrj3k4vg) - a reference manual by [Dr. Edward Feser](https://leadership.oregonstate.edu/provost/about/provost-edward-feser) on professional writing for policy professionals.
+* Professor Greenlee's [Memorandum Writing Tips](https://uofi.box.com/s/50nw1lyan59mbkji1wfqpm8fv3uei1w1)
+* Annotated [Memorandum Example](https://uofi.box.com/s/9ns3krmvac54qxtmjtswhvx29l9rx5a7)
+* [How to Write a Policy White Paper](https://uofi.box.com/s/6himjv9jps7anh6j4p3bwvkrlznagc31)
+* [How to Write and Format a White Paper: The Definitive Guide](https://uofi.box.com/s/1ic054dyvhjrk5m21qtditqbe6dpxi2e)
+* White Paper Examples
+  - Chicago Metropolitan Agency for Planning: [Expanding Housing Choice Strategy Paper](https://uofi.box.com/s/b39c61z2803bgs25zlbqbmma3hzgknch)
+  - San Mateo County Board of Supervisors: [Affordable Housing White Paper: Preventing Displacement and Promoting Affordable Housing Development in San Mateo County](https://uofi.box.com/s/ks0nzi8k050pyzf1oo4wkrro297t4gx2)
+  - Seattle Planning Commission: [Family-Sized Housing: An Essential Ingredient to Attract and Retain Families with Children in Seattle](https://uofi.box.com/s/rpn4swv9bye89212gdprldq91iqi4xjy)
+  - City of Evanston: [Affordable Housing White Paper](https://uofi.box.com/s/vc6xu00rmdwxb4xapxhd3nq5w9rrd85p)
+  
 ## Housing Advocacy and Research - Illinois
 
 * [Chicago Rehab Network](https://www.chicagorehab.org)
@@ -51,6 +64,8 @@ As you identify additional resource, we will add them to this site.
 * Census Bureau Data About Housing Characteristics
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lVVNGwC20zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Champaign County Regional Planning Commission: [Understanding and Using the U.S. Census Bureau's American Community Survey](https://uofi.box.com/s/vmhi9k83a4lhijkv3kwrwgk57gdo7o8h)
 
 ## Periodic Email Lists
 
