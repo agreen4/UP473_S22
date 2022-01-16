@@ -19,7 +19,7 @@ title: Assignments
 
 ### Assignment:
 
-The environment for housing is ever-evolving. One challenge facing housing policy practitioners is understanding the changing context for the nation's housing, as well as the evolving needs of housing consumers. In class, you have been exposed to several important sources of information that describe the national housing environment in the United States, many of them summarized in the Joint Center for Housing Studies’ [State of the Nation’s Housing](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2021.pdf) report. For your first assignment, you will produce your own analysis and summary of current housing market trends for the nation. Unlike the JCHS report, your analysis need not be comprehensive, but it should provide a detailed profile of a component of the nation's housing.
+The environment for housing is ever-evolving. One challenge facing housing policy practitioners is understanding the changing context for the nation's housing, as well as the evolving needs of housing consumers. In class, you have examined several important sources of information that describe the national housing environment in the United States, many of them summarized in the Joint Center for Housing Studies’ [State of the Nation’s Housing](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2021.pdf) report. For your first assignment, you will produce your own analysis and summary of current housing market trends for the nation. Unlike the JCHS report, your analysis need not be comprehensive, but it should provide a detailed profile of a component of the nation's housing.
 
 Drawing from available secondary data from the [American Community Survey](https://www.census.gov/programs-surveys/acs), [Census Public Use Microdata](https://www.census.gov/programs-surveys/acs/microdata.html), the [Census Household Pulse Survey Measuring Household Experiences during the Coronavirus (COVID-19) Pandemic](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html), produce an analysis of a component of the national housing environment, paying particular attention to three themes as they relate to this component:
 
@@ -29,7 +29,7 @@ Drawing from available secondary data from the [American Community Survey](https
 
 * **Theme of Your Choice:**	Explore a third theme of your choice that builds upon your analysis of supply and demand. Focus on building an analysis and narrative that provides a detailed examination of a particular issue or question of your choice.
 
-Prepare your profile as a memorandum of approximately 4,000 words (8 single-spaced pages, excluding tables, illustrations, and references). Your memorandum should include sufficient analysis and properly referenced evidence for another housing expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
+Prepare your profile as a memorandum of approximately 3,000 words (6 single-spaced pages, excluding tables, illustrations, and references). Your memorandum should include sufficient analysis and properly referenced evidence for another housing expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
 
 As you set out to develop your assignment, keep in mind that your national analysis will serve as valuable context for your remaining assignments in this class which will all focus on building a more in-depth profile of a local housing market in the U.S.
 
@@ -89,9 +89,13 @@ Determine what percentage of median income is required to be able to afford the 
 
 **Other Data Sources:** You may wish to integrate other data sources into your analysis. Please speak with me (proactively) about the use of other sources or about ideas. I can help you to identify other data sources or variables which I have not prepared and downloaded which may be useful for your analysis. 
 
+### Assignment Submission
+
+Please submit your assignment components electronically via your Box Assignment Dropbox.
+
 ## Local Housing Market Analysis Memo
 
-In seeking to intervene in local, regional, and national housing environments, housing policy analysts face the challenge of describing past and present housing dynamics while also looking towards the future. While you were able to gain insight into nationwide housing needs and trends in your first assignment, you will now turn towards developing an in-depth understanding of a regional housing market.
+In seeking to intervene in local and regional housing environments, housing policy analysts face the challenge of describing past and present housing dynamics while also looking towards the future. This assignment asks you to practice these skills by developing an in-depth understanding of a regional housing market of your choice.
 
 At a most basic level, housing policy analysts have to 
 
@@ -101,15 +105,15 @@ At a most basic level, housing policy analysts have to
 
   c) describe the economic environment in which the housing markets operate. 
 
-After distilling salient trends and features, housing policy analysts can then identify the overall health of the housing market, likely future influences, and special populations that should receive particular care or intervention.
+After distilling salient trends and features, housing policy analysts can then identify the overall health and function of the housing market, likely future influences, and special populations that should receive particular care or intervention.
 
-In this assignment, you will begin defining and exploring a housing market of your choice, focusing in particular on current conditions and housing market trends within the last 10 years. You will make use of multiple sources of secondary data to describe the local housing market, its demographic and economic conditions, trends for renters and owners, and likely future influences. You will also identify one or more specialized populations and will briefly describe their housing needs (your second assignment asks you to build upon your analysis by performing a detailed housing needs assessment for the population you identify). 
+In this assignment, you will begin defining and exploring a housing market of your choice, focusing on current conditions and housing market trends within the last 10 years. You will use multiple sources of secondary data to describe the local housing market, its demographic and economic conditions, trends for renters and owners, and likely future influences. You will also identify one or more specialized populations and will briefly describe their housing needs (your third assignment asks you to build upon your analysis by performing a detailed housing needs assessment for the specialized population you identify). 
 
 Your housing market analysis should describe the following:
 
-* **Demographic Conditions:**	Who lives in the housing market you’re analyzing? 
+* **Demographic Conditions:**	What are the salient demographic characteristics of the households in your housing market?
 	
-* **Economic Conditions:**	What local or regional economic conditions shape the housing environment? How do the types of jobs that people do shape the economic environment for housing? How does housing and housing consumption influence the local economic environment?
+* **Economic Conditions:**	What local or regional economic conditions shape the housing environment? How do the types of jobs that people have shape the economic environment for housing? How does housing consumption influence the local economic environment?
 
 * **Trends by Tenure:**	How do changes in the housing market differ for renters and owners? 
 
@@ -119,17 +123,17 @@ Your housing market analysis should describe the following:
 
 ### The Deliverable
 
-Prepare your profile as a memorandum of approximately 4,000 words (8 single-spaced pages, excluding tables, illustrations, and references). Your memorandum should include sufficient analysis and properly referenced evidence for another housing market expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
+Prepare your profile as a memorandum of approximately 3,000 words (6 single-spaced pages, excluding tables, illustrations, and references). Your memorandum should include sufficient analysis and properly referenced evidence for another housing market expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
 
 In preparing your analysis, you may want to first look for other recent analyses of your local market. Good starting places would be to search for the most recent Analysis of Impediments to Fair Housing, local Analysis of Fair Housing, HUD Comprehensive Housing Market Analysis, or for housing analysis completed as part of a neighborhood, local, or regional plan.
 
-Please also note that I am not specifying or constraining the geography which you are required to conduct your analysis at. In selecting a particular geography, you’ll need to think carefully about what make sense – how does a particular geography constitute a housing market (or series of submarkets)? You will need to describe the definition you select and will need to justify your choice. Once you do, you should also plan to compare the characteristics of your local housing market (however you define it) to its region and state. 
+Please also note that I am not specifying or constraining the geography which you are required to conduct your analysis at. In selecting a particular geography, you’ll need to think carefully about what make sense – how does a particular geography constitute a housing market (or series of submarkets)? You will need to describe the definition you select and will need to justify your choice. Once you do, you should also plan to compare the characteristics of your local housing market (however you define it) to its region and the state in which it's located. 
 
 I encourage you to reach out to me as you work to define your market, to get confirmation that you have selected an appropriate geography. Keep in mind that you will be working with this selection over the course of the semester for your remaining assignments in the class.
 
 ### Data Resources and Analytical Guidance
 
-The Census Bureau’s American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The data.census.gov website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2018 5-year American Community Surveys at the census place level which are accessible on the course Box site. To successfully complete the assignment, you may also want to download data for other geographies or time periods on your own.
+The Census Bureau’s American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The [data.census.gov](https://data.census.gov) website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2019 5-year American Community Surveys at the census place level which are accessible on the course Box site. To successfully complete the assignment, you may also want to download data for other geographies or time periods on your own.
 
 Below, you will find helpful information including ACS table numbers (e.g. the population table is B01003) as well as some guidance on initial analytical steps that will help you get started with your analysis:
 
@@ -163,13 +167,13 @@ Determine what percentage of median income is required to be able to afford the 
 
 * **Future Influences:** To examine future influences, you are going to perform some very crude projections of housing characteristics. You will find more information on performing these projections at the very end of this assignment.
 
-Based upon housing costs in 2010 and 2018, project housing costs for owners and renters to the year 2030.
+  - Based upon housing costs in 2010 and 2019, project housing costs for owners and renters to the year 2030.
 
-Based upon the median income in 2010 and 2018 project median income for 2030. What percentile of median income will be required in 2030 to afford to rent a median priced housing unit? What percentile of median income will be required to pay the mortgage on a median housing unit?
+  - Based upon the median income in 2010 and 2019 project median income for 2030. What percentile of median income will be required in 2030 to afford to rent a median priced housing unit? What percentile of median income will be required to pay the mortgage on a median housing unit?
 
-Based upon change in housing units from 2010 and 2018, project the number of housing units that will be constructed in your place by 2030.
+  - Based upon change in housing units from 2010 and 2019, project the number of housing units that will be constructed in your place by 2030.
 
-How many new households do you project will live in your place by 2030? To calculate this, project the population to 2030 as well as the average household size and then use the ratio of population to average household size to approximate households.
+  - How many new households do you project will live in your place by 2030? To calculate this, project the population to 2030 as well as the average household size and then use the ratio of population to average household size to approximate households.
 
 ### Performing Simple Projections
 
@@ -179,7 +183,7 @@ You may remember from your past geometry training that the slope of a line can b
 
 slope = $\frac{(y_2-y_1)}{(x_2-x_1 )}$
 	
-Let’s calculate the change in population for a hypothetical location called Busytown. In 2010, the population of Busytown was 8,000 and by 2020 the population was 9,750. Here’s how we would find the annual rate of population change for Busytown between 2010 and 2017:
+Let’s calculate the change in population for a hypothetical location called Busytown. In 2010, the population of Busytown was 8,000 and by 2020 the population was 9,750. Here’s how we would find the annual rate of population change for Busytown between 2010 and 2020:
 
 change = $\frac{(9750-8000)}{(2020-2010)} =  \frac{1750}{10} = 175$
 
@@ -201,7 +205,7 @@ Please submit your assignment components electronically via your Box Assignment 
 
 In your second assignment, you described elements of housing supply and demand and also identified the specific housing consumers present within your housing market. For this assignment, you will spend more time thinking about the housing needs associated with these consumers. Specifically, you will draw from elements of HUD’s Assessment of Fair Housing methodology to analyze your housing market’s demographics, patterns of spatial integration and segregation, and the intersectionality between housing and other needs. Together with your Housing Market Analysis, your Housing Needs Analysis will constitute the basis for your final assignment – a housing policy platform – which will focus on designing intervention to address the needs you identify within your local housing market.
 
-Drawing from the HUD AFFH Guidebook and the HUD AFFH Data, analyze the needs present within your local housing market. At a minimum, your housing needs analysis should address the following:
+Drawing from the [HUD AFFH Guidebook](https://www.hud.gov/sites/dfiles/FHEO/documents/AFFH-Rule-Guidebook.pdf) and the [HUD AFFH Data](https://www.hud.gov/program_offices/fair_housing_equal_opp/affh), analyze the needs present within your local housing market. At a minimum, your housing needs analysis should address the following:
 
 * **Demographic Summary:**	Describe demographic patterns in the housing market and describe trends over time. Describe the location of homeowners and renters in the housing market, and describe trends over time. 
 
@@ -245,11 +249,11 @@ After analyzing these dimensions of housing needs, provide an overall summary of
 
 ### Deliverable
 
-Prepare your assessment as a memorandum of  around 4,000 words. Your memorandum should include sufficient analysis and properly referenced evidence for another housing market expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
+Prepare your assessment as a memorandum of  around 3,000 words. Your memorandum should include sufficient analysis and properly referenced evidence for another housing market expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
 
 ### Data Notes
 
-The federal government has recently depreciated the use of AFFH data in its planning processes. While the data has been removed from federal data repositories (a somewhat uncommon move), you can find the raw data available on our course Box site. You will need to construct your own summaries from the AFFH Raw Data – please note that this process may be time-consuming – leave yourself plenty of time to work through this. For more specifics on data and indicators, please also see HUDs data documentation, also available on our course Box site.
+You will need to construct your own summaries from the AFFH Raw Data – please note that this process may be time-consuming – leave yourself plenty of time to work through this. For more specifics on data and indicators, please also see HUD's data documentation.
 
 ### Assignment Submission
 
@@ -293,7 +297,7 @@ Prepare a polished memorandum of approximately 5,000 words. Your memo should be 
 
 Following the guidance in the Housing Policy Memo prompt, Master's students will produce a more fully developed housing policy platform with two outputs:
 
-1.	Prepare a polished policy report of approximately 5,000 words. Your report should be targeted towards a professional audience and should include sufficient analysis and properly referenced evidence for other experts and decision makers in your housing market to weigh the strengths of your claims. The judicious use of maps, imagery, and tables should be included to support your analysis.
+1.	Prepare a polished report of approximately 5,000 words. Your report should be targeted towards a professional audience and should include sufficient analysis and properly referenced evidence for other experts and decision makers in your housing market to weigh the strengths of your claims. The judicious use of maps, imagery, and tables should be included to support your analysis.
 
 2.	Write an op-ed targeting the news venue of your choice that makes a public argument summarizing your problem, the costs of inaction, and the benefits of your proposed course of action. In general, your op ed should be between 600 and 800 words in length, although you should follow the guidelines posted for the target venue you would hypothetically publish your op ed in. The following resources may be useful in strategizing around your op ed: [The Op Ed Project](https://www.theopedproject.org), [Op Ed Length](https://phairadvantage.com/2014/09/more-than-you-wanted-to-know-about-op-ed-length/), [Centre for Policy Writing](https://cepow.org/tips-tricks-for-op-ed-writing/).
 
@@ -303,7 +307,7 @@ Please submit your assignment components electronically via Illinois your Box As
 
 ## Term Paper
 
-Doctoral students in UP473 will produce a term-length paper on a topic of your choice that draws upon the academic literature to engage with a theme related to housing policy. Based upon your interests and needs, this paper could include original empirical analysis of a phenomenon, could be theory-based, or could be focused on synthesizing literature. We will work together to determine an appropriate paper scope and approach. In addition to preparing your term assignment, you will present your paper to the class at the end of the semester.
+Doctoral students in UP 473 will produce a term-length paper on a topic of your choice that draws upon the academic literature to engage with a theme related to housing policy. Based upon your interests and needs, this paper could include original empirical analysis of a phenomenon, could be theory-based, or could be focused on synthesizing literature. We will work together to determine an appropriate paper scope and approach. In addition to preparing your term assignment, you will present your paper to the class at the end of the semester.
 
 Your completed term paper will be due at the end of the semester. In order to ensure that you are making adequate progress to meet this deadline, you will submit several intermediate work products including the following:
 
@@ -330,7 +334,7 @@ Write an op-ed targeting the news venue of your choice that makes a public argum
 
 ## Discussion Facilitation
 
-Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to take responsibility for discussion facilitation over the course of the semester. During the first two weeks of class, you will sign up to facilitate discussion for one week of the class (Weeks 3-8, 10-12, and 14).
+Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to take responsibility for discussion facilitation over the course of the semester. During the first two weeks of class, you will sign up to facilitate discussion for one week of the class (Weeks 3-8, 10-14).
 
 ### Discussion Facilitators by Week
 
