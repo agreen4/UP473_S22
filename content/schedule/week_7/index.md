@@ -2,7 +2,6 @@
 title: Week 7 - Housing Production Strategies
 description: |
  Provisions in the tax code are leveraged to stimulate private investment in housing. Where do these investments go? Who benefits?
-date: 2022-02-28
 weight: 7
 ---
 ## Description

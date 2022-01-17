@@ -2,7 +2,6 @@
 title: Week 11 - Eviction
 description: |
   Our nation's eviction crisis has grown more visible during the pandemic - what are the root causes of this crisis and what can be done?
-date: 2022-03-28
 weight: 11
 ---
 ## Description

@@ -2,7 +2,6 @@
 title: Week 6 - Federally Assisted Housing
 description: |
   Housing vouchers are designed to deliver affordable low-income housing by partnering with private market landlords. When and where do they deliver?
-date: 2022-02-21
 weight: 6
 ---
 ## Description

@@ -2,7 +2,6 @@
 title: Week 16 - Class Presentations and Course Wrap-Up
 description: |
    Class presentations to share you work over the course of the semester.
-date: 2022-05-02
 weight: 16
 ---
 ## Description

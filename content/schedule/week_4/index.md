@@ -2,7 +2,6 @@
 title: Week 4 - Homeownership
 description: |
   How has the drive for homeownership simultaneously created great wealth and new risks for households?
-date: 2022-02-07
 weight: 4
 ---
 ## Description

@@ -2,7 +2,6 @@
 title: Week 5 - Public Housing
 description: |
   Designed to modernize housing conditions for the poor, today, public housing is seen as both a boon and a boondoggle within many local contexts.
-date: 2022-02-14
 weight: 5
 ---
 ## Description

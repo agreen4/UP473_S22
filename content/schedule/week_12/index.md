@@ -2,7 +2,6 @@
 title: Week 12 - Neighborhood Change and Gentrification
 description: |
   Gentrification is a term oftentimes viewed as synonymous with neighborhood change, however, other trajectories also exist that need to be explored.
-date: 2022-04-04
 weight: 12
 ---
 ## Description

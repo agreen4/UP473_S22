@@ -2,7 +2,6 @@
 title: Week 13 - Housing Market Discrimination and Fair Housing
 description: |
   What can we do to make our housing system more fair amidst an increasingly divided political landscape?
-date: 2022-04-11
 weight: 13
 ---
 ## Description

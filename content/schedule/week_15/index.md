@@ -2,7 +2,6 @@
 title: Week 15 - Class Presentations
 description: |
   Class presentations to share you work over the course of the semester.
-date: 2022-04-25
 weight: 15
 ---
 ## Description
