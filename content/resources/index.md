@@ -5,6 +5,7 @@ As you identify additional resource, we will add them to this site.
 
 ## Assignment Resources
 
+* [UP 473 Housing Indicator Data and Code](https://github.com/agreen4/UP-473-S22-Code) repository contains both data and R code to download common housing indicators including those that are specifically called for in your assignments.
 * [Professional Writing By the Numbers](https://uofi.box.com/s/8sd9ievwu7gumwg5co5eqy9ebrj3k4vg) - a reference manual by [Dr. Edward Feser](https://leadership.oregonstate.edu/provost/about/provost-edward-feser) on professional writing for policy professionals.
 * Professor Greenlee's [Memorandum Writing Tips](https://uofi.box.com/s/50nw1lyan59mbkji1wfqpm8fv3uei1w1)
 * Annotated [Memorandum Example](https://uofi.box.com/s/9ns3krmvac54qxtmjtswhvx29l9rx5a7)

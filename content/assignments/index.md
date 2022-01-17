@@ -35,6 +35,7 @@ As you set out to develop your assignment, keep in mind that your national analy
 
 ### Data Resources and Analytical Guidance
 
+* [Class Data Repository](https://github.com/agreen4/UP-473-S22-Code) includes R scripts as well as data tables for the primary indicators mentioned in this assignment.
 * **American Community Survey:** The Census Bureau’s American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market and housing consumers. The [data.census.gov](https://data.census.gov) website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2019 5-year American Community Surveys for the U.S. as a whole, and for each state in the U.S.. Cross referencing the data in these CSVs with the tables they come from on data.census.gov will be useful in producing your summaries.
 
 Below, you will find helpful information including ACS table numbers (e.g. the population table is B01003) as well as some guidance on initial analysis steps that will help you get started with your analysis:
@@ -132,6 +133,8 @@ Please also note that I am not specifying or constraining the geography which yo
 I encourage you to reach out to me as you work to define your market, to get confirmation that you have selected an appropriate geography. Keep in mind that you will be working with this selection over the course of the semester for your remaining assignments in the class.
 
 ### Data Resources and Analytical Guidance
+
+Our [class data repository](https://github.com/agreen4/UP-473-S22-Code) includes R scripts as well as data tables for the primary indicators mentioned in this assignment.
 
 The Census Bureau’s American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The [data.census.gov](https://data.census.gov) website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2019 5-year American Community Surveys at the census place level which are accessible on the course Box site. To successfully complete the assignment, you may also want to download data for other geographies or time periods on your own.
 
@@ -253,7 +256,7 @@ Prepare your assessment as a memorandum of  around 3,000 words. Your memorandum 
 
 ### Data Notes
 
-You will need to construct your own summaries from the AFFH Raw Data – please note that this process may be time-consuming – leave yourself plenty of time to work through this. For more specifics on data and indicators, please also see HUD's data documentation.
+You will need to construct your own summaries from the AFFH Raw Data – please note that this process is time-consuming – leave yourself plenty of time to work through this. For more specifics on data and indicators, please also see HUD's data documentation.
 
 ### Assignment Submission
 
