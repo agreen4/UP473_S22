@@ -2,7 +2,7 @@
 title: Week 8 - The Enduring Significance of Neighborhoods
 description: |
   Our exploration this semester underscores how spatial context matters for delivering housing promises. Why do neighborhoods remain so important despite a range of interventions?
-  
+date: 2022-03-07
 weight: 8
 ---
 ## Description

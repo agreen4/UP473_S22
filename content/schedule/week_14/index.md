@@ -2,6 +2,7 @@
 title: Week 14 - Housing Special Populations
 description: |
   How do we house special populations such as the homeless and people with disabilities?
+date: 2022-04-18
 weight: 14
 ---
 ## Description

@@ -2,6 +2,7 @@
 title: Week 10 - Regulating Housing Environments
 description: |
   Healthy housing involves a complex series of negotiations and collaboration.
+date: 2022-03-21
 weight: 10
 ---
 ## Description

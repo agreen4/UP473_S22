@@ -2,6 +2,7 @@
 title: Week 3 - Government Intervention in Housing
 description: |
   How has the government been involved in shaping housing? How has housing policy altered material conditions in the United States?
+date: 2022-01-31
 weight: 3
 ---
 ## Description

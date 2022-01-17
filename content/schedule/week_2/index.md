@@ -2,6 +2,7 @@
 title: Week 2 - How Well are we Housed?
 description: |
   Housing conditions and measures can help us understand why and how housing matters.
+date: 2022-01-24
 weight: 2
 ---
 ## Description

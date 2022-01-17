@@ -2,6 +2,7 @@
 title: Week 1 - Course Introduction
 description: |
   Welcome to class - let's get started!
+date: 2022-01-19
 weight: 1
 ---
 
