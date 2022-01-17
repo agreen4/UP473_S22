@@ -1,10 +1,15 @@
 ---
 title: Week 12 - Neighborhood Change and Gentrification
 description: |
-  Describe Me Here.
+  Gentrification is a term oftentimes viewed as synonymous with neighborhood change, however, other trajectories also exist that need to be explored.
 weight: 12
 ---
 ## Description
+
+This week we will explore the causes and consequences of neighborhood change. We will examine some of the theory surrounding neighborhood change, and, drawing from local and national examples, we'll look at the ways in which analysts qualify outcomes from this change over time.
+
+We will be joined by Dr. Patrice Williams, who is a Research Scientist at MIT who will share some of her work that examines the relationship between residential displacement and structural racism.
+
 ## Facilitators
 
 * [Dr. Patrice Williams](https://dusp.mit.edu/staff/patrice-c-williams) - Research Scientist, MIT

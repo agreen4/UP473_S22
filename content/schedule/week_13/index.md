@@ -1,10 +1,15 @@
 ---
 title: Week 13 - Housing Market Discrimination and Fair Housing
 description: |
-  Describe Me Here.
+  What can we do to make our housing system more fair amidst an increasingly divided political landscape?
 weight: 13
 ---
 ## Description
+
+Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. This week, we'll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
+
+We'll be joined by Sharon Legenza, who is Executive Director of Housing Action Illinois, a statewide housing advocacy organization. Sharon and her team at Housing Action Illinois work to advocate for fairer, more accessible housing, throughout the state.
+
 ## Facilitators
 
 * [Sharon Legenza](https://housingactionil.org/board-and-staff-bios/sharon-legenza/), Executive Director, [Housing Action Illinois](https://housingactionil.org)

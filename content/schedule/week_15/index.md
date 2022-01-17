@@ -5,6 +5,9 @@ description: |
 weight: 15
 ---
 ## Description
+
+This week, we'll begin final class presentations where we will share final housing policy proposals created over the course of the the semester.
+
 ## Presenters
 ## Slides
 ## Other Resources

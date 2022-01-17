@@ -5,6 +5,11 @@ description: |
 weight: 14
 ---
 ## Description
+
+Our nation's housing delivery system works well for some, but there are other specialized populations that require additional outreach and support. This week, we will examine the unique housing needs of both homeless individuals and individuals with disabilities, and will explore the range of policy tools and strategies to provide inclusive, long-term housing solutions.
+
+We'll be joined by Danielle Chynoweth, who is Cunningham Township Supervisor. In this position, Danielle has the responsibility of overseeing a range of anti-poverty programs throughout the township (which covers the same area as City of Urbana).
+
 ## Facilitators
 
 * [Danielle Chynoweth](https://www.toi.org/township/champaign-county-cunningham-township/ctso-staff/) Cunningham Township Supervisor

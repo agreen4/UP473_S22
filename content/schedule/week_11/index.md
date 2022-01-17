@@ -1,10 +1,15 @@
 ---
 title: Week 11 - Eviction
 description: |
-  Describe Me Here.
+  Our nation's eviction crisis has grown more visible during the pandemic - what are the root causes of this crisis and what can be done?
 weight: 11
 ---
 ## Description
+
+Our nation is facing an unprecedented eviction crisis that has only been made worse by the economic instability caused by the pandemic. The pandemic has presented opportunities to directly target state and federal relief towards those households facing eviction, and has also opened up a broader conversation about the balance between landlord and tenant rights. 
+
+This week, we will explore some of the root causes for eviction and will add complexity to our understnding by examining some of the current policy debates for how to address this crisis.
+
 ## Facilitators
 ## Readings
 
