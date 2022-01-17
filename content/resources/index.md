@@ -19,10 +19,15 @@ As you identify additional resource, we will add them to this site.
   
 ## Housing Advocacy and Research - Illinois
 
+* [Access Living Chicago](https://www.accessliving.org)
 * [Chicago Rehab Network](https://www.chicagorehab.org)
+* [Cunningham Township Supervisors Office](https://www.toi.org/township/champaign-county-cunningham-township/)
 * [DePaul Institute for Housing Studies](https://www.housingstudies.org)
+* [Habitat for Humanity of Champaign County](https://cuhabitat.org)
 * [Housing Action Illinois](https://housingactionil.org)
+* [Land of Lincoln Legal Aid](https://lincolnlegal.org)
 * [Nathalie P. Voorhees Center for Neighborhood and Community Improvement](https://voorheescenter.uic.edu)
+* [Shriver Center on Poverty Law](https://www.povertylaw.org)
 * [Woodstock Institute](https://woodstockinst.org)
 
 ## Housing Advocacy and Research - National
