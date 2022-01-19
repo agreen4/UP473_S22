@@ -38,4 +38,7 @@ In our first course session, we'll discuss the overall layout and structure of o
 * [What Happened to the Eviction Tsunami?](https://fivethirtyeight.com/features/what-happened-to-the-eviction-tsunami/) [&nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/dvbsjwdt8a23anlm3gaiy0a6bgmttssm)
 
 ## Slides
+
+[Seminar Slides](https://uofi.box.com/s/c9jp9asltpb6nf808fpue2vwyiylgteh)
+
 ## Other Resources
