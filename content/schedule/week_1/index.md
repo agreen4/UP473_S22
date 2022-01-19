@@ -21,21 +21,21 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 * Schwartz, Alex, [Housing Policy in the United States (3rd edition)](https://www.routledge.com/Housing-Policy-in-the-United-States/Schwartz/p/book/9780367563912) 
 
-  - [Chapter 1 &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/4l81c33xl27swhmz5d1ixp78c4pznbz9)
+  - [Chapter 1 &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/4l81c33xl27swhmz5d1ixp78c4pznbz9) 
 
 ## In Class
 
-* [Federal Rental Assistance is Running Out, With Tenants Still in Need](https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html)
+* [Federal Rental Assistance is Running Out, With Tenants Still in Need](https://www.nytimes.com/2022/01/07/us/federal-rental-assistance-evictions.html) [&nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/g9sh8bmo04fptptq77jhombhmilq5ezb)
 
-* [3 Ways Remote Work Could Remake America](https://www.vox.com/22839563/remote-work-climate-change-house-prices-cities)
+* [3 Ways Remote Work Could Remake America](https://www.vox.com/22839563/remote-work-climate-change-house-prices-cities) [&nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/6ndu18l1m884ztroe9bjag6h6c3cggg9)
 
-* [It's Been a Home for Decades But Only Legal a Few Months](https://www.nytimes.com/2021/12/18/business/economy/california-housing.html)
+* [It's Been a Home for Decades But Only Legal a Few Months](https://www.nytimes.com/2021/12/18/business/economy/california-housing.html) [&nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/aikml2oatuv00gsw8re0n5gf8di29wt3)
 
-* [Portland Developer's Change of Plan Opens Doors For Women who are Homeless or in Recovery](https://www.pressherald.com/2022/01/10/portland-developer-creates-housing-for-women-who-are-in-recovery-or-homeless/)
+* [Portland Developer's Change of Plan Opens Doors For Women who are Homeless or in Recovery](https://www.pressherald.com/2022/01/10/portland-developer-creates-housing-for-women-who-are-in-recovery-or-homeless/) [&nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/9lthddrc7buxeewnou3er3aoh1e5zane)
 
-* [The Bronx Fire was Not Only a Tragedy but also a Housing Injustice](https://theintercept.com/2022/01/11/bronx-fire-housing-justice-eric-adams-kathy-hochul/)
+* [The Bronx Fire was Not Only a Tragedy but also a Housing Injustice](https://theintercept.com/2022/01/11/bronx-fire-housing-justice-eric-adams-kathy-hochul/) [&nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/uxw4w1z9g2zhivgh7gqz9yphd9uralx6)
 
-* [What Happened to the Eviction Tsunami?](https://fivethirtyeight.com/features/what-happened-to-the-eviction-tsunami/)
+* [What Happened to the Eviction Tsunami?](https://fivethirtyeight.com/features/what-happened-to-the-eviction-tsunami/) [&nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/dvbsjwdt8a23anlm3gaiy0a6bgmttssm)
 
 ## Slides
 ## Other Resources
