@@ -5,7 +5,7 @@ As you identify additional resource, we will add them to this site.
 
 ## Assignment Resources
 
-* [UP 473 Housing Indicator Data and Code](https://github.com/agreen4/UP-473-S22-Code) repository contains both data and R code to download common housing indicators including those that are specifically called for in your assignments.
+* [UP 473 Housing Indicator Data and Code](https://github.com/agreen4/UP-473-S22-Code) repository contains both data and R code to download common housing indicators including those that are specifically called for in your assignments. Please note that the code available here is for your reference. You do not have to use R or similar tools to perform your analysis.
 * [Professional Writing By the Numbers](https://uofi.box.com/s/8sd9ievwu7gumwg5co5eqy9ebrj3k4vg) - a reference manual by [Dr. Edward Feser](https://leadership.oregonstate.edu/provost/about/provost-edward-feser) on professional writing for policy professionals.
 * Professor Greenlee's [Memorandum Writing Tips](https://uofi.box.com/s/50nw1lyan59mbkji1wfqpm8fv3uei1w1)
 * Annotated [Memorandum Example](https://uofi.box.com/s/9ns3krmvac54qxtmjtswhvx29l9rx5a7)
@@ -16,7 +16,9 @@ As you identify additional resource, we will add them to this site.
   - San Mateo County Board of Supervisors: [Affordable Housing White Paper: Preventing Displacement and Promoting Affordable Housing Development in San Mateo County](https://uofi.box.com/s/ks0nzi8k050pyzf1oo4wkrro297t4gx2)
   - Seattle Planning Commission: [Family-Sized Housing: An Essential Ingredient to Attract and Retain Families with Children in Seattle](https://uofi.box.com/s/rpn4swv9bye89212gdprldq91iqi4xjy)
   - City of Evanston: [Affordable Housing White Paper](https://uofi.box.com/s/vc6xu00rmdwxb4xapxhd3nq5w9rrd85p)
-  
+
+* [UIUC instructions](https://faq.library.illinois.edu/faq/151721) for accessing New York Times and other newspaper articles.
+
 ## Housing Advocacy and Research - Illinois
 
 * [Access Living Chicago](https://www.accessliving.org)
