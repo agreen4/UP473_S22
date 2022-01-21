@@ -35,6 +35,7 @@ We'll be joined by Sharon Legenza, who is Executive Director of Housing Action I
 
 * [Disparate Impact and Fair Housing: Seven Cases You Should Know](https://www.propublica.org/article/disparate-impact-and-fair-housing-seven-cases-you-should-know)
 
+* [Can you Game Your Way out of American Housing Injustice?](https://www.bloomberg.com/news/articles/2022-01-12/video-game-spotlights-racism-in-u-s-housing-system?srnd=citylab-housing) / [STEAM link](https://store.steampowered.com/app/1763520/Dots_Home/)
 * [Housing Segregation in Everything](https://www.npr.org/sections/codeswitch/2018/04/11/601494521/video-housing-segregation-in-everything)
 
 <iframe src="https://www.npr.org/player/embed/601131468/601396049" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
