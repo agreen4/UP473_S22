@@ -19,9 +19,9 @@ title: Assignments
 
 ### Assignment:
 
-The environment for housing is ever-evolving. One challenge facing housing policy practitioners is understanding the changing context for the nation's housing, as well as the evolving needs of housing consumers. In class, you have examined several important sources of information that describe the national housing environment in the United States, many of them summarized in the Joint Center for Housing Studies’ [State of the Nation’s Housing](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2021.pdf) report. For your first assignment, you will produce your own analysis and summary of current housing market trends for the nation. Unlike the JCHS report, your analysis need not be comprehensive, but it should provide a detailed profile of a component of the nation's housing.
+The environment for housing is ever-evolving. One challenge facing housing policy practitioners is understanding the changing context for the nation's housing, as well as the evolving needs of housing consumers. In class, you have examined several important sources of information that describe the national housing environment in the United States, many of them summarized in the Joint Center for Housing Studies’ [State of the Nation’s Housing](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2021.pdf) report. For your first assignment, you will produce your own analysis and summary of current housing market trends for the nation. Unlike the JCHS report, your analysis need not be comprehensive, but it should provide a detailed profile of *a component* of the nation's housing.
 
-Drawing from available secondary data from the [American Community Survey](https://www.census.gov/programs-surveys/acs), [Census Public Use Microdata](https://www.census.gov/programs-surveys/acs/microdata.html), the [Census Household Pulse Survey Measuring Household Experiences during the Coronavirus (COVID-19) Pandemic](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html), produce an analysis of a component of the national housing environment, paying particular attention to three themes as they relate to this component:
+Drawing from available secondary data such as the [American Community Survey](https://www.census.gov/programs-surveys/acs), [Census Public Use Microdata](https://www.census.gov/programs-surveys/acs/microdata.html), the [Census Household Pulse Survey Measuring Household Experiences during the Coronavirus (COVID-19) Pandemic](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html), produce an analysis of a component of the national housing environment, paying particular attention to three themes as they relate to this component:
 
 * **Housing Supply:**	What is the composition of the housing stock, how many units are owned? Rented? How many units are in single-family or multi-family structures? How many units are occupied and vacant?
 
@@ -31,12 +31,17 @@ Drawing from available secondary data from the [American Community Survey](https
 
 Prepare your profile as a memorandum of approximately 3,000 words (6 single-spaced pages, excluding tables, illustrations, and references). Your memorandum should include sufficient analysis and properly referenced evidence for another housing expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
 
-As you set out to develop your assignment, keep in mind that your national analysis will serve as valuable context for your remaining assignments in this class which will all focus on building a more in-depth profile of a local housing market in the U.S.
+As you set out to develop your memorandum, keep in mind that your national analysis will serve as valuable context for your remaining assignments in this class which will all focus on building a more in-depth profile of a local housing market in the U.S.
 
 ### Data Resources and Analytical Guidance
 
-* [Class Data Repository](https://github.com/agreen4/UP-473-S22-Code) includes R scripts as well as data tables for the primary indicators mentioned in this assignment.
+For this assignment, you may draw upon a range of available data sources. Because many of you are not familiar with some of the common sources of housing data, I have pre-downloaded and prepared some basic data for the nation, states, and at the census tract scale which may be useful to you:
+
+* [Class Data Repository](https://github.com/agreen4/UP-473-S22-Code) includes R scripts as well as data tables for the primary indicators mentioned in this assignment. Please note that scripts are posted for your reference. You are not expected to know or use R in this class.
+
 * **American Community Survey:** The Census Bureau’s American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market and housing consumers. The [data.census.gov](https://data.census.gov) website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2019 5-year American Community Surveys for the U.S. as a whole, and for each state in the U.S.. Cross referencing the data in these CSVs with the tables they come from on data.census.gov will be useful in producing your summaries.
+
+* **Other Data Sources:** Depending upon what you choose to focus on for this assignment, you may want to draw from other data sources. We'll set aside some time in class to discuss approaches to information in more detail and to workshop your individual approaches to the assignment.
 
 Below, you will find helpful information including ACS table numbers (e.g. the population table is B01003) as well as some guidance on initial analysis steps that will help you get started with your analysis:
 

@@ -9,6 +9,9 @@ weight: 6
 Housing vouchers involve private market landlords to deliver affordable housing by paying a portion of the tenant's rent to make their share of the rent more affordable. Aside from delivering on housing quality and affordability promises, vouchers have become a major tool in the fight for housing choice, and have been used in both experimental programs and as legal remedies for racial and economic segregation. This week we'll explore the evolution of the voucher program and will examine the strengths and limitations of leveraging vouchers for affordability and accessibility of housing.
 
 ## Facilitators
+
+* [Jennifer Carlson](https://champaignil.gov/staff/jennifer-carlson/), Neighborhood Programs Manager, City of Champaign
+
 ## Readings
 * Schwartz (Chapter 8)
 
