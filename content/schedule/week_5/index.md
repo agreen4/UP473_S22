@@ -6,6 +6,9 @@ weight: 5
 ---
 ## Description
 ## Facilitators
+
+* [Temeka Couch](https://hacc.net/about-us/staff/#1586837108428-6d511863-0f23), Deputy Director, Housing Authority of Champaign County
+
 ## Readings
 * Schwartz
 
