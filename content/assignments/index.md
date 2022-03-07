@@ -367,6 +367,20 @@ To be accountable for your learning over the course of the semester, you will co
 
 [Midterm Exam Prompt](https://uofi.box.com/s/k4gzcd8pnw8k0fuqg4o07s8nbixoe5qs)
 
+So far in class, we have focused on developing theoretical frameworks for understanding the impact of housing and housing policy in the United States, and have interrogated government intervention regarding owned and rented housing. Your midterm examination asks you to reflect and synthesize several dimensions of what you’ve learned so far this semester.
+
+Please respond to three of the following four questions with a well-composed response. Your response to each question should be approximately 800 words. Your responses should reference source material we have relied upon so far this semester but may also incorporate external sources. Please provide references for cited sources (references do not count towards the length of each of your responses).
+
+1.	The Biden administration’s proposed pandemic recovery plans include a major expansion of the federal Housing Choice Voucher Program. What do you see as the potential trade-offs associated with this expansion? How would these trade-offs impact low-income housing consumers? Identify trade-offs related to voucher expansion, review potential alternate intervention approaches, and provide an overall recommendation regarding a preferred course of action.
+
+2.	The push to deconcentrate low-income populations, particularly those residing in public housing, has resulted in a range of national, state, and local policy efforts, with one major approach being the design of planned mixed-income communities. Briefly describe the theoretical rationale for mixed-income communities, and then provide a brief argument either for or against the application of such policies within the modernization of the nation’s most severely distressed public housing stock.
+
+3.	Briefly describe how tenant-based housing subsidies like the Housing Choice Voucher differ from place-based housing subsidies like public housing. How are tenant-based housing subsidies designed to respond to critiques of place-based housing subsidies related to geographic isolation and segregation? What barriers to fair housing choice are frequently experienced by households with tenant-based housing subsidies?
+
+4.	The Federal Housing Choice Voucher (HCV) Program and Low-Income Housing Tax Credit (LIHTC) program both make use of public-private partnerships to deliver affordable housing. Compare and contrast the types of partnership structures that are characteristic of each program. Thinking about these partnerships, what threats or vulnerabilities exist, with respect to the delivery of affordable housing?
+
+
+
 ### Final Exam Prompt
 
 To be Posted in April
