@@ -23,4 +23,7 @@ This week we will examine a range of housing production strategies, many that in
 * [Ellen, Ingrid, and Justin Steil, The Dream Revisited: Contemporary Debates about Housing, Segregation, and Opportunity (Discussion 19) &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/jkd0keylc7dh99im5jy0donl12i0zue0)
 
 ## Slides
+
+* [Slides - Professor Greenlee](https://uofi.box.com/s/2696fcrlagghdr9r4gvttyvz0os3r21j)
+
 ## Other Resources

@@ -26,6 +26,10 @@ Housing conditions and measures can help us understand why and how housing matte
 * [HUD Comprehensive Housing Market Analysis](https://www.huduser.gov/portal/publications/pdf/ChampaignIL-comp-17.pdf)
 
 ## Slides
+
+* [Slides - Framework for Analysis](https://uofi.box.com/s/2goxsve761mqlnfz7amixblcanxneja6)
+* [Slides - Who Gets What Housing?](https://uofi.box.com/s/2goxsve761mqlnfz7amixblcanxneja6)
+
 ## Other Resources
 
 * [A Refugee Crisis Runs Into a Housing Crisis](https://www.nytimes.com/2021/12/15/us/afghan-refugees-housing.html)

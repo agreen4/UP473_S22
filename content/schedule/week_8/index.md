@@ -25,6 +25,9 @@ A primary theme of our class has been the enduring significance of neighborhoods
 * [Galster, George, and Patrick Sharkey, Spatial Foundations of Inequality: A Conceptual Framework &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/unzmdh6xq5yptgns247pssqjcssleryg)
 
 ## Slides
+
+* [Slides - Professor Greenlee](https://uofi.box.com/s/53uyzie5jr1sffiipeuj7t63pbbg09ow)
+
 ## Other Resources
 
 * [Baker, Dwayne, Esteban Lopez, and Andrew Greenlee, Transit Development and Housing Displacement: The Case of the Chicago Red Line Extension](https://www.tandfonline.com/doi/full/10.1080/14036096.2017.1284155)

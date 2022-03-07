@@ -23,6 +23,10 @@ weight: 5
 * [Smith, Janet, Mixed-Income Communities: Designing Out Poverty or Pushing Out the Poor? &nbsp;<i class="fas fa-cloud-download-alt"></i>](https://uofi.box.com/s/h542mmzus8powbqcztn73heihz2x8cvs)
 
 ## Slides
+
+* [Week 5 Slides - Professor Greenlee](https://uofi.box.com/s/56kz11eqtq92h5b1wvgs1qn0huw7it83)
+* [Week 5 Slides - Temeka Couch](https://uofi.box.com/s/6jy93fpm77mbfwdqluasid1wmq7c9eki)
+
 ## Other Resources
 
 * [Greenlee, Lee, and McNamara, Performance of Small Public Housing Authorities: Opportunities and Barriers](https://www.jstor.org/stable/26524883?seq=1#metadata_info_tab_contents)

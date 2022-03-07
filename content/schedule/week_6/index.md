@@ -11,6 +11,7 @@ Housing vouchers involve private market landlords to deliver affordable housing 
 ## Facilitators
 
 * [Jennifer Carlson](https://champaignil.gov/staff/jennifer-carlson/), Neighborhood Programs Manager, City of Champaign
+* [Janel Gomez](https://champaignil.gov/staff/janel-gomez/), Community Development Specialist, City of Champaign
 
 ## Readings
 * Schwartz (Chapter 8)
@@ -24,6 +25,10 @@ Housing vouchers involve private market landlords to deliver affordable housing 
 * [Fischer, Will, Vouchers Can Help Families Afford Homes, With Little Impact on Market Rents](https://www.cbpp.org/research/housing/vouchers-can-help-families-afford-homes-with-little-impact-on-market-rents?utm_source=Housing+Policy+News&utm_campaign=e5f4749826-EMAIL_CAMPAIGN_2019_09_20_06_59_COPY_01&utm_medium=email&utm_term=0_8fdffd50b8-e5f4749826-110885553)
 
 ## Slides
+
+* [Slides - Professor Greenlee](https://uofi.box.com/s/27v5g6mxnj3wrx5gtys7mukgislmrazs)
+* [Slides - Discussion Facilitation](https://uofi.box.com/s/lwxof1eo6uszqgpgi47fi156h3533u1a)
+
 
 ## Other Resources
 

@@ -26,6 +26,9 @@ We will be joined this week by Kim Gollings who is the Community Development Dir
 	
 ## Slides
 
+* [Slides - Professor Greenlee](https://uofi.box.com/s/5wc18h8lrk5d02787vda4vtdx7mo9uyg)
+* [Slides - Discussion Facilitation](https://uofi.box.com/s/t4ugotjyzp0d5mu3nwugljky9ecuge23)
+
 ## Other Resources
 
 * [Should the Community Reinvestment Act Consider Race?](https://www.urban.org/sites/default/files/publication/105283/should-the-community-reinvestment-act-consider-race_1.pdf)

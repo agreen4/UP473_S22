@@ -27,6 +27,10 @@ weight: 3
   - [Build Back Boldly](https://www.tandfonline.com/doi/full/10.1080/10511482.2021.1909241)
   
 ## Slides
+
+* [Slides - Government Intervention in Housing - Part 1](https://uofi.box.com/s/z49kg3asf9wwcvlnj3zk5hidsr21gcit)
+* [Slides - Government Intervention in Housing - Part 2](https://uofi.box.com/s/von5i7q8ql4cqzo4vsec3c2n4g2ij0f1)
+
 ## Other Resources
 
 * How the U.S. Made Affordable Homes Illegal

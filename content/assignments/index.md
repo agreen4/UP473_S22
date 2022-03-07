@@ -363,6 +363,14 @@ Our class depends upon all of us taking leadership for our course content, learn
 
 To be accountable for your learning over the course of the semester, you will complete written take-home midterm and final exams. Please find example exam questions and prompt below.
 
+### Midterm Exam Prompt
+
+[Midterm Exam Prompt](https://uofi.box.com/s/k4gzcd8pnw8k0fuqg4o07s8nbixoe5qs)
+
+### Final Exam Prompt
+
+To be Posted in April
+
 ### Examples of Exam Questions and Prompt
 
 Please respond to each of the following four questions with a well-composed response. Your response to each question should be approximately 800 words. Your responses should reference source material we have relied upon so far this semester but may also incorporate external sources. Please provide references for cited sources (references do not count towards the length of each of your responses).
