@@ -379,20 +379,7 @@ Please respond to three of the following four questions with a well-composed res
 
 4.	The Federal Housing Choice Voucher (HCV) Program and Low-Income Housing Tax Credit (LIHTC) program both make use of public-private partnerships to deliver affordable housing. Compare and contrast the types of partnership structures that are characteristic of each program. Thinking about these partnerships, what threats or vulnerabilities exist, with respect to the delivery of affordable housing?
 
-
-
 ### Final Exam Prompt
 
 To be Posted in April
 
-### Examples of Exam Questions and Prompt
-
-Please respond to each of the following four questions with a well-composed response. Your response to each question should be approximately 800 words. Your responses should reference source material we have relied upon so far this semester but may also incorporate external sources. Please provide references for cited sources (references do not count towards the length of each of your responses).
-
-1.	The report of the Financial Crisis Inquiry Commission describes the prevalence of a sentiment that “you’ll be gone, I’ll be gone” throughout the mortgage sales and service sector. Describe the structure and function of the main actors involved in the sales and servicing of mortgages, and describe how “you’ll be gone, I’ll be gone” shifted the management of consumer and institutional risk within the system.
-
-2.	Housing played a central role within Federal urban renewal policy characterizing the period 1949-1974 and encapsulated within the 1949 Federal Housing Act. Describe the theory of change associated with the Act, paying particular attention to the role of housing intervention. Describe the actual outcomes associated with urban renewal efforts, and explain the lasting impacts of these efforts on metropolitan spatial structure.
-
-3.	The push to deconcentrate low-income populations, particularly those residing in public housing, has resulted in a range of national, state, and local policy efforts, with one major approach being the design of planned mixed-income communities. Briefly describe the theoretical rationale for mixed-income communities, and then provide a brief argument either for or against the application of such policies within the modernization of the nation’s most severely distressed public housing stock.
-
-4.	Briefly describe how tenant-based housing subsidies like the Housing Choice Voucher differ from place-based housing subsidies like public housing. How are tenant-based housing subsidies designed to respond to critiques of place-based housing subsidies related to geographic isolation and segregation? What barriers to fair housing choice are frequently experienced by households with tenant-based housing subsidies?
