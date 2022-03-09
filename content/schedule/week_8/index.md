@@ -28,6 +28,7 @@ A primary theme of our class has been the enduring significance of neighborhoods
 
 * [Slides - Professor Greenlee](https://uofi.box.com/s/53uyzie5jr1sffiipeuj7t63pbbg09ow)
 * [Slides - Discussion Facilitation](https://uofi.box.com/s/b9257bb92jgs16zgrjrhyihg2eibseul)
+* [Slides - Mike Davis](https://uofi.box.com/s/0r7t0q8b863ba1jx83vwjobtuo3xsy8x)
 
 ## Other Resources
 
