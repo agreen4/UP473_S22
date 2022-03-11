@@ -6,7 +6,7 @@ title: Assignments
 | Component                             | Undergraduate | Master's   | Doctoral   | Due Date |
 |---------------------------------------|---------------|------------|------------|----------|
 | [National Housing Market Analysis Memo](#national-housing-market-analysis-memo) | 10%    | 10% |            | February 11 |
-| [Local Housing Market Analysis Memo](#local-housing-market-analysis-memo)    | 10%    | 10% |            | March 11|
+| [Local Housing Market Analysis Memo](#local-housing-market-analysis-memo)    | 10%    | 10% |            | March 20|
 | [Housing Needs Analysis Memo](#housing-needs-analysis-memo)           | 10% | 10% |            | April 8 |
 | [Housing Policy Analysis Memo](#housing-policy-analysis-memo)          | 30% |            |            | May 6 |
 | [Housing Policy Platform](#housing-policy-platform)               |               | 40% |            | May 6 |
