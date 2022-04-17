@@ -16,6 +16,12 @@ We'll be joined by Danielle Chynoweth, who is Cunningham Township Supervisor. In
 
 ## Readings
 
+* [Introduction of the Undeserving Poor by Michael Katz](https://drive.google.com/file/d/13B8GGsE-4YSDKIT6X71kmcV7vZzen3T4/view)
+
+* [A History of Women's Homelessness: The Making of a Crisis](https://drive.google.com/file/d/17FK8JAYRLQpnvKDGS7CZh3YnNauRjJKC/view)
+
+* [No Safe Place: Sexual Assault in the Lives of Homeless Women](https://drive.google.com/file/d/1a3ThJS3q8Ag56ktvOMAlhAKC0tS9oLpe/view)
+
 * [National Alliance to End Homelessness: State of Homelessness 2021 Edition &nbsp;<i class="fas fa-atlas"></i>](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness-2021/)
 
 *[Deutsch, James, "Like We Were a Coronavirus!" Experiencing Homelessness in the Pandemic](https://folklife.si.edu/magazine/crisis-experiencing-homelessness-in-the-pandemic)
